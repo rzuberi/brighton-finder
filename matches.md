@@ -1,13 +1,13 @@
-# Apartment sweep — 2026-09-22
+# Apartment sweep — 2026-09-23
 
 Brighton Home Finder: ≤ £2500 pcm, available 2026-09-25 to 2026-11-30.
-**69 matches** (20 new since last run).
+**73 matches** (13 new since last run).
 
 ### [Flat 8, 8 Pavilion Parade, Brighton BN2](https://www.zoopla.co.uk/to-rent/details/74000804/)
 £2,400 pcm · 3 bed · North Laine · available **2026-11-30** — **garden** · listed 17th Aug 2026
 >  Available November 2026 Nestled in the vibrant heart of Brighton, Flat 8 at 8 Pavilion Parade offers a splendid opportunity for those seeking a ...
 
-### [Brighton, East Sussex, East Sussex](https://www.rightmove.co.uk/properties/93391659#/?channel=RES_LET) 🆕
+### [Brighton, East Sussex, East Sussex](https://www.rightmove.co.uk/properties/93391659#/?channel=RES_LET)
 £2,500 pcm · 3 bed · North Laine · available **2026-11-09** — **balcony/terrace** · listed 2026-09-21
 > Fantastically presented, fully furnished, Three double bed house over four floors with a roof terrace
 
@@ -15,11 +15,15 @@ Brighton Home Finder: ≤ £2500 pcm, available 2026-09-25 to 2026-11-30.
 £1,995 pcm · 3 bed · North Laine · available **2026-10-01** — **garden** · listed 25th Aug 2026
 > 3-Bedroom House with Large Private Garden - Central Brighton£1,995 pcm Available from 1st October 2026 UnfurnishedA well-located three-bedroom ...
 
+### [Egremont Place, Brighton BN2](https://www.zoopla.co.uk/to-rent/details/73677185/)
+£2,475 pcm · 3 bed · Queen's Park · available **2026-11-17** — **garden** · listed 10th Jul 2026
+> Minimum 1 month & maximum 4 month tenancy - cannot be HMO - from 17 November 2026 The AreaThis beautifully presented three-bedroom Victorian ...
+
 ### [Fenchurch Walk, Brighton BN1](https://www.zoopla.co.uk/to-rent/details/65311469/)
 £2,195 pcm · 3 bed · North Laine · available **2026-10-07** — **balcony/terrace** · listed 27th Jul 2026
 >  Bishop SureLets present a furnished 1st floor 3 double bedroom, 2 bathroom, 2 balcony flat in a modern building moments from Brighton Station, ...
 
-### [Fleet Street, Brighton BN1](https://www.zoopla.co.uk/to-rent/details/74299653/) 🆕
+### [Fleet Street, Brighton BN1](https://www.zoopla.co.uk/to-rent/details/74299653/)
 £2,150 pcm · 3 bed · North Laine · available **2026-09-30** — **balcony/terrace, garden** · listed 21st Sep 2026
 > Key features 3 double bed flat 2 bathrooms Spacious lounge Fully fitted kitchen Part furnished Secure apartment block 2 balconies Central location ...
 
@@ -88,12 +92,16 @@ Brighton Home Finder: ≤ £2500 pcm, available 2026-09-25 to 2026-11-30.
 > Maslen Letting Agents are delighted to offer a well presented family home in Brighton. The property comprises three good size bedrooms, living room, dining room, kitchen and a fami
 
 ### [Rugby Place, Brighton BN2](https://www.zoopla.co.uk/to-rent/details/74039581/)
-£2,400 pcm · 4 bed · Whitehawk · available **2026-10-23** — **mentioned in description** · listed 21st Aug 2026
+£2,400 pcm · 4 bed · Whitehawk · available **2026-10-23** — **garden** · listed 21st Aug 2026
 > Spacious four-bedroom period home over three floors with modern finishes, conservatory, patio garden, and excellent location near Brighton General ...
 
 ### [Rugby Place, Brighton BN2](https://www.zoopla.co.uk/to-rent/details/69036468/)
-£2,400 pcm · 4 bed · Whitehawk · available **2026-11-01** — **mentioned in description** · listed 28th Aug 2026
+£2,400 pcm · 4 bed · Whitehawk · available **2026-11-01** — **garden** · listed 28th Aug 2026
 > Four bedroom period home | three floors | private patio garden | conservatory | available November 2026 | modern kitchen | two toilets | ...
+
+### [Maldon Road, Brighton, BN1](https://www.rightmove.co.uk/properties/93426771#/?channel=RES_LET) 🆕
+£2,495 pcm · 3 bed · Preston Park · available **2026-10-31** — **balcony/terrace** · listed 2026-09-22
+> Spacious three bedroom terrace with large lounge, kitchen diner, stylish bathroom, extra WC, and high-quality finishes. Great location near schools, amenities, and transport. Avail
 
 ### [Clermont Terrace, Brighton BN1](https://www.zoopla.co.uk/to-rent/details/74021265/)
 £2,450 pcm · 3 bed · Preston Park · available **2026-10-31** — **balcony/terrace** · listed 19th Aug 2026
@@ -104,14 +112,14 @@ Brighton Home Finder: ≤ £2500 pcm, available 2026-09-25 to 2026-11-30.
 >  This charming, three-bedroom, semi-detached house is located in the sought-after Hove Park district, just a short distance from Hove Park and ...
 
 ### [Eastbourne Road, East Sussex BN2](https://www.zoopla.co.uk/to-rent/details/49675916/)
-£2,000 pcm · 3 bed · Elm Grove · available **2026-10-01** — **mentioned in description** · listed 25th Aug 2026
+£2,000 pcm · 3 bed · Elm Grove · available **2026-10-01** — **garden** · listed 25th Aug 2026
 >  Newly refurbished three bedroom family home with a lovely sized south facing mature garden. The house offers spacious living with a good sized ...
 
 ### [Maldon Road, Brighton BN1](https://www.zoopla.co.uk/to-rent/details/72101411/)
 £2,395 pcm · 4 bed · Preston Park · available **2026-10-22** — **mentioned in description** · listed 1st Sep 2026
 >  Bishop SureLets present a newly decorated, spacious 4 double bedroom Victorian terraced family home with period features and patio, close to ...
 
-### [Livingstone Road, Hove BN3](https://www.zoopla.co.uk/to-rent/details/74295564/) 🆕
+### [Livingstone Road, Hove BN3](https://www.zoopla.co.uk/to-rent/details/74295564/)
 £2,500 pcm · 3 bed · Hove · available **2026-10-09** — **garden** · listed 21st Sep 2026
 >  A beautifully presented three double bedroom maisonette, boasting its own private street entrance and a sunny rear garden, offering spacious and ...
 
@@ -123,12 +131,16 @@ Brighton Home Finder: ≤ £2500 pcm, available 2026-09-25 to 2026-11-30.
 £1,950 pcm · 4 bed · Moulsecoomb · available **2026-09-25** — **garden** · listed 8th Apr 2026
 > A large and modern four bedroom student house with two bathrooms and Three W.C. The house enjoys Gas Central Heating and double glazed ...
 
+### [The Boardwalk, Brighton Marina Village, Brighton, East Sussex BN2](https://www.zoopla.co.uk/to-rent/details/73788035/) 🆕
+£2,200 pcm · 3 bed · Kemptown · available **2026-09-30** — **balcony/terrace** · listed 22nd Jul 2026
+> No deposit option available | pets considered | parking space available | managed by Charters Welcome to the luxurious new development of 'Sirius' ...
+
 ### [The Strand, Brighton BN2](https://www.zoopla.co.uk/to-rent/details/74163701/)
 £2,100 pcm · 3 bed · Whitehawk · available **2026-11-30** — **balcony/terrace** · listed 7th Sep 2026
 >  This 3 bedroom duplex apartment with a garage included. Situated in the gated community Sovereign Court in the popular Brighton Marina. On the ...
 
 ### [Hillside, Brighton BN2](https://www.zoopla.co.uk/to-rent/details/71110065/)
-£2,280 pcm · 3 bed · Moulsecoomb · available **2026-10-01** — **mentioned in description** · listed 28th Aug 2026
+£2,280 pcm · 3 bed · Moulsecoomb · available **2026-10-01** — **garden** · listed 28th Aug 2026
 > Property number 52259. Three bedroom house for rent in lovely location.
 
 ### [Kingsway, Hove BN3](https://www.zoopla.co.uk/to-rent/details/73952917/)
@@ -159,6 +171,10 @@ Brighton Home Finder: ≤ £2500 pcm, available 2026-09-25 to 2026-11-30.
 £2,000 pcm · 5 bed · Fiveways · available **2026-11-10** — **garden** · listed 18th Sep 2026
 >  Tucked away in a quiet close and neighbouring Patcham Old Village, this extended family home offers fantastic accommodation. We love the ...
 
+### [Egginton Road, Brighton BN2](https://www.zoopla.co.uk/to-rent/details/73785850/)
+£2,130 pcm · 4 bed · Moulsecoomb · available **2026-09-25** — **garden** · listed 22nd Jul 2026
+>  Nestled on the charming Egginton Road in Brighton, this delightful four-bedroom house offers a perfect blend of comfort and convenience. The ...
+
 ### [Egginton Road, Brighton BN2](https://www.zoopla.co.uk/to-rent/details/74208022/)
 £2,250 pcm · 4 bed · Moulsecoomb · available **2026-09-25** — **garden** · listed 10th Sep 2026
 >  Located on Eggington Road in the city of Brighton close to Brighton University, this spacious house is an ideal choice for students or sharers ...
@@ -170,6 +186,10 @@ Brighton Home Finder: ≤ £2500 pcm, available 2026-09-25 to 2026-11-30.
 ### [Batemans Road, Brighton BN2](https://www.zoopla.co.uk/to-rent/details/73496059/)
 £2,000 pcm · 3 bed · Whitehawk · available **2026-09-25** — **mentioned in description** · listed 19th Jun 2026
 > Newly Renovated Family Home with Brand New Kitchen/Diner, Private Garden & Flexible Furnishings. Open House By Appointment Only!
+
+### [Crescent Drive North, Brighton](https://www.rightmove.co.uk/properties/93445623#/?channel=RES_LET) 🆕
+£2,450 pcm · 4 bed · Whitehawk · available **2026-09-26** — **balcony/terrace** · listed 2026-09-22
+> Maslen Letting Agents is delighted to offer a spacious detached family home within a popular residential area in Crescent Drive North, Woodingdean. The property comprises four doub
 
 ### [Frederick Street, Brighton, East Sussex BN1](https://www.zoopla.co.uk/to-rent/details/60953833/)
 £2,210 pcm · 3 bed · North Laine · available **2026-11-05** · listed 18th Sep 2026
@@ -191,10 +211,6 @@ Brighton Home Finder: ≤ £2500 pcm, available 2026-09-25 to 2026-11-30.
 £2,300 pcm · 4 bed · Queen's Park · available **2026-10-16** · listed 4th Aug 2026
 > Spacious four-bedroom maisonette with period features, modern kitchen, and HMO licence. Great location near cafés, shops, and transport. Available ...
 
-### [Egremont Place, Brighton BN2](https://www.zoopla.co.uk/to-rent/details/73677185/)
-£2,475 pcm · 3 bed · Queen's Park · available **2026-11-17** · listed 10th Jul 2026
-> Minimum 1 month & maximum 4 month tenancy - cannot be HMO - from 17 November 2026 The AreaThis beautifully presented three-bedroom Victorian ...
-
 ### [Braemar House, Norfolk Road BN1](https://www.zoopla.co.uk/to-rent/details/74209412/)
 £1,900 pcm · 3 bed · Brunswick · available **2026-09-28** · listed 10th Sep 2026
 >  No deposit option and student friendly This centrally located, 3 bedroom flat is ideally situated for bus routes and local amenities. It is also ...
@@ -203,7 +219,7 @@ Brighton Home Finder: ≤ £2500 pcm, available 2026-09-25 to 2026-11-30.
 £1,900 pcm · 3 bed · Brunswick · available **2026-10-01** · listed 1st Sep 2026
 >  Large three double bedroom flat | part furnished | zero deposit available | available to sharers | Taylor Michael are delighted to offer to the ...
 
-### [Rose Hill Terrace, Brighton](https://www.rightmove.co.uk/properties/59514971#/?channel=RES_LET) 🆕
+### [Rose Hill Terrace, Brighton](https://www.rightmove.co.uk/properties/59514971#/?channel=RES_LET)
 £2,050 pcm · 3 bed · North Laine · available **2026-11-06** · listed 2016-05-18
 > NO DEPOSIT | AVAILABLE TO STUDENTS & SHARERSSimply Lettings is delighted to offer this three-double-bedroom upper maisonette, located close to London Road, Brighton. The property i
 
@@ -215,7 +231,7 @@ Brighton Home Finder: ≤ £2500 pcm, available 2026-09-25 to 2026-11-30.
 £1,947 pcm · 3 bed · Preston Park · available **2026-10-01** · listed 10th Sep 2026
 > We are happy to offer this 3 bedroom, 1 bathroom and separate toilet maisonette in a great location. 5 minutes from London Road station, shops and ...
 
-### [Caledonian Road, Brighton](https://www.rightmove.co.uk/properties/92899005#/?channel=RES_LET) 🆕
+### [Caledonian Road, Brighton](https://www.rightmove.co.uk/properties/92899005#/?channel=RES_LET)
 £1,850 pcm · 3 bed · Elm Grove · available **2026-11-24** · listed 2026-09-08
 > ** Zero Deposit Guarantee Available **
 Lovely, Spacious, 3 bedroom family house located close to schools, shops and supermarkets. Ideal for a familiy looking for a great sized, unf
@@ -224,7 +240,7 @@ Lovely, Spacious, 3 bedroom family house located close to schools, shops and sup
 £2,250 pcm · 3 bed · Kemptown · available **2026-09-28** · listed 8th Jul 2026
 >  A well presented split-level, third-floor apartment set within an attractive period building on the prestigious Eaton Place, just moments from ...
 
-### [Eaton Place - P1738](https://www.rightmove.co.uk/properties/93138705#/?channel=RES_LET) 🆕
+### [Eaton Place - P1738](https://www.rightmove.co.uk/properties/93138705#/?channel=RES_LET)
 £2,250 pcm · 4 bed · Kemptown · available **2026-10-10** · listed 2026-09-15
 > Spacious 4-Bedroom Flat with Loft Area - Eaton Place, Brighton 
 
@@ -245,8 +261,12 @@ Lovely, Spacious, 3 bedroom family house located close to schools, shops and sup
 > Suitable for Students or Professionals is this four bedroom, TW0 W.C property located just a few minutes off Lewes Road.
 
 ### [Sussex Square, Brighton, East Sussex BN2](https://www.zoopla.co.uk/to-rent/details/74133841/)
-£2,400 pcm · 3 bed · Kemptown · available **2026-11-23** · listed 3rd Sep 2026
+£2,350 pcm · 3 bed · Kemptown · available **2026-11-23** · listed 3rd Sep 2026
 > No deposit option available Stunning three bedroom, two bathroom period apartment in a prime Kemp Town location with access to Kemp Town ...
+
+### [Rugby Place, Brighton, BN2](https://www.rightmove.co.uk/properties/93210162#/?channel=RES_LET) 🆕
+£1,895 pcm · 4 bed · Kemptown · available **2026-10-30** · listed 2026-09-16
+> Located in the heart of Kemptown, this spacious maisonette is arranged over three floors of a charming converted period property and offers flexible accommodation to suit a range o
 
 ### [Rugby Place (Upper Maisonette), Brighton BN2](https://www.zoopla.co.uk/to-rent/details/74174046/)
 £1,895 pcm · 4 bed · Kemptown · available **2026-10-31** · listed 8th Sep 2026
@@ -264,18 +284,14 @@ Lovely, Spacious, 3 bedroom family house located close to schools, shops and sup
 £2,150 pcm · 4 bed · Moulsecoomb · available **2026-09-25** · listed 2026-08-21
 > DEPOSIT ALTERNATIVE AVAILABLE! Open House By Appointment Only. Recently Renovated Family Home with En-Suite Bedroom - Available September!
 
-### [Woodbourne Avenue, Brighton](https://www.rightmove.co.uk/properties/93141486#/?channel=RES_LET) 🆕
+### [Woodbourne Avenue, Brighton](https://www.rightmove.co.uk/properties/93141486#/?channel=RES_LET)
 £2,000 pcm · 3 bed · Fiveways · available **2026-10-23** · listed 2026-09-15
 > Nestled on the charming Woodbourne Avenue in Brighton, this delightful semi-detached bungalow offers a perfect blend of comfort and convenience. Spanning an impressive 958 square f
 
-### [Darcey Drive, Brighton, BN1](https://www.rightmove.co.uk/properties/92997876#/?channel=RES_LET) 🆕
+### [Darcey Drive, Brighton, BN1](https://www.rightmove.co.uk/properties/92997876#/?channel=RES_LET)
 £2,095 pcm · 4 bed · Moulsecoomb · available **2026-10-09** · listed 2026-09-10
 > No Deposit Option Available Charters are delighted to offer this charming and spacious four-bedroom semi-detached house, situated on a quiet residential road in the popular area of
 
 ### [Boundary Road, Hove, East Sussex BN3](https://www.zoopla.co.uk/to-rent/details/74239016/)
 £1,500 pcm · 3 bed · Portslade · available **2026-10-08** · listed 14th Sep 2026
 > A beautifully presented and generously proportioned three bedroom flat, ideally situated close to the ever-popular Boundary Road shopping district ...
-
-### [Egginton Road, Brighton BN2](https://www.zoopla.co.uk/to-rent/details/73785850/)
-£2,248 pcm · 4 bed · Moulsecoomb · available **2026-09-25** · listed 22nd Jul 2026
->  Nestled on the charming Egginton Road in Brighton, this delightful four-bedroom house offers a perfect blend of comfort and convenience. The ...
