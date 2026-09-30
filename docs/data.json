@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T07:19",
+ "generated": "2026-09-30T07:20",
  "criteria": {
   "key": "brighton",
   "title": "Brighton Home Finder",
@@ -287,47 +287,6 @@
    "bills_included": false,
    "short_let": false,
    "gym_in_building": false,
-   "sqft": null,
-   "station_lines": [],
-   "gym": null,
-   "gym_km": null,
-   "id": "74250059",
-   "address": "Arlington Crescent, Brighton BN1",
-   "price": "\u00a32,200 pcm",
-   "price_num": 2200,
-   "beds": 3,
-   "baths": 2,
-   "receptions": null,
-   "zone": null,
-   "area": "Moulsecoomb",
-   "centre_km": 4.7,
-   "lat": 50.85988,
-   "lng": -0.10865,
-   "station": "Moulsecoomb",
-   "station_km": 1.12,
-   "available": null,
-   "in_window": false,
-   "outdoor": [
-    "garden"
-   ],
-   "furnished": "unfurnished",
-   "pets": null,
-   "published": "15th Sep 2026",
-   "url": "https://www.zoopla.co.uk/to-rent/details/74250059/",
-   "summary": "Your new home in Brighton 3 Bedroom part furnished property. Features: Large kitchen with dining area Sitting Room Home office/4th bedroom Two ...",
-   "images": [
-    "https://lid.zoocdn.com/645/430/cca59921bbebf30983ab18a6c3a7ed23a554827c.jpg",
-    "https://lid.zoocdn.com/645/430/0f01aab0ea748e819c943882106678135f5db1ac.jpg",
-    "https://lid.zoocdn.com/645/430/81bc53d289d056de0e1a9e27c39076d175bfe402.jpg"
-   ],
-   "num": 6,
-   "first_seen": "2026-09-20",
-   "epc": "D"
-  },
-  {
-   "bills_included": false,
-   "short_let": false,
-   "gym_in_building": false,
    "sqft": 96,
    "station_lines": [],
    "gym": null,
@@ -409,7 +368,8 @@
    },
    "num": 8,
    "first_seen": "2026-09-20",
-   "epc": "D"
+   "epc": "D",
+   "unavailable": true
   },
   {
    "bills_included": false,
@@ -448,6 +408,10 @@
     "https://lid.zoocdn.com/645/430/3454914a4e4654eaae8212593dcb566f44d884e1.jpg",
     "https://lid.zoocdn.com/645/430/a2a56fda1e9b84a5b636fe13558a37fbd26d8b2e.jpg"
    ],
+   "also_on": {
+    "Rightmove": "https://www.rightmove.co.uk/properties/93113433#/?channel=RES_LET",
+    "OpenRent": "https://www.openrent.co.uk/3044005"
+   },
    "num": 9,
    "first_seen": "2026-09-20",
    "epc": "D"
@@ -526,9 +490,6 @@
     "https://lid.zoocdn.com/645/430/908efbdb481a904fa31f5fe94ed072c323b0f6ed.jpg",
     "https://lid.zoocdn.com/645/430/470cfec22c1cfc18802f7adbe011bc71cc9babfe.jpg"
    ],
-   "also_on": {
-    "Rightmove": "https://www.rightmove.co.uk/properties/93072570#/?channel=RES_LET"
-   },
    "num": 11,
    "first_seen": "2026-09-20",
    "epc": "D"
@@ -659,49 +620,8 @@
    },
    "num": 14,
    "first_seen": "2026-09-20",
-   "epc": "D"
-  },
-  {
-   "bills_included": false,
-   "short_let": false,
-   "gym_in_building": false,
-   "sqft": 796,
-   "station_lines": [],
-   "gym": null,
-   "gym_km": null,
-   "id": "74209412",
-   "address": "Braemar House, Norfolk Road BN1",
-   "price": "\u00a31,900 pcm",
-   "price_num": 1900,
-   "beds": 3,
-   "baths": 1,
-   "receptions": 1,
-   "zone": null,
-   "area": "Brunswick",
-   "centre_km": 1.02,
-   "lat": 50.82552,
-   "lng": -0.15478,
-   "station": "Brighton",
-   "station_km": 1.03,
-   "available": null,
-   "in_window": false,
-   "outdoor": [],
-   "furnished": null,
-   "pets": null,
-   "published": "10th Sep 2026",
-   "url": "https://www.zoopla.co.uk/to-rent/details/74209412/",
-   "summary": " No deposit option and student friendly This centrally located, 3 bedroom flat is ideally situated for bus routes and local amenities. It is also ...",
-   "images": [
-    "https://lid.zoocdn.com/645/430/1b5e84cf324d130274d50160213c4046a965b4bb.jpg",
-    "https://lid.zoocdn.com/645/430/bd15c2ed758523e6db2850963e8aff5932cb34a0.jpg",
-    "https://lid.zoocdn.com/645/430/2274515128231326d4e5af8d9ba7b9b357e3cd4b.jpg"
-   ],
-   "also_on": {
-    "Rightmove": "https://www.rightmove.co.uk/properties/90604239#/?channel=RES_LET"
-   },
-   "num": 15,
-   "first_seen": "2026-09-20",
-   "epc": "C"
+   "epc": "D",
+   "unavailable": true
   },
   {
    "id": "74209092",
@@ -908,6 +828,89 @@
    "bills_included": false,
    "short_let": false,
    "gym_in_building": false,
+   "sqft": 1022,
+   "station_lines": [],
+   "gym": null,
+   "gym_km": null,
+   "id": "70226969",
+   "address": "Western Road, Brighton BN1",
+   "price": "\u00a32,350 pcm",
+   "price_num": 2350,
+   "beds": 3,
+   "baths": 3,
+   "receptions": null,
+   "zone": null,
+   "area": "Brunswick",
+   "centre_km": 0.91,
+   "lat": 50.82515,
+   "lng": -0.15338,
+   "station": "Brighton",
+   "station_km": 0.96,
+   "available": null,
+   "in_window": false,
+   "outdoor": [],
+   "furnished": "unfurnished",
+   "pets": null,
+   "published": "7th Sep 2026",
+   "url": "https://www.zoopla.co.uk/to-rent/details/70226969/",
+   "summary": "A stunning three bedroom and three-bathroom property. Spread over two floors, this property has been recently renovated to an incredibly high ...",
+   "images": [
+    "https://lid.zoocdn.com/645/430/fa151b6f4ea08d2f66689b7e618e3c32c5a3821d.jpg",
+    "https://lid.zoocdn.com/645/430/22f40942672773dfba569bfef14a52e28d1f09db.jpg",
+    "https://lid.zoocdn.com/645/430/5fd696237b19f3af3204bed74d8ca0916cd146a7.jpg"
+   ],
+   "also_on": {
+    "Rightmove": "https://www.rightmove.co.uk/properties/92824218#/?channel=RES_LET"
+   },
+   "num": 21,
+   "first_seen": "2026-09-20",
+   "epc": "E"
+  },
+  {
+   "bills_included": false,
+   "short_let": false,
+   "gym_in_building": false,
+   "sqft": 1291,
+   "station_lines": [],
+   "gym": null,
+   "gym_km": null,
+   "id": "61887374",
+   "address": "Springfield Road, Brighton BN1",
+   "price": "\u00a32,350 pcm",
+   "price_num": 2350,
+   "beds": 3,
+   "baths": 2,
+   "receptions": 1,
+   "zone": null,
+   "area": "Preston Park",
+   "centre_km": 1.48,
+   "lat": 50.83609,
+   "lng": -0.14229,
+   "station": "London Road",
+   "station_km": 0.44,
+   "available": "2026-10-09",
+   "in_window": true,
+   "outdoor": [
+    "balcony/terrace"
+   ],
+   "furnished": null,
+   "pets": null,
+   "published": "7th Sep 2026",
+   "url": "https://www.zoopla.co.uk/to-rent/details/61887374/",
+   "summary": "Modern and spacious 3 double bedroom 1st floor apartment situated close to Preston Park, available now Part Furnished",
+   "images": [
+    "https://lid.zoocdn.com/645/430/c78f15fa02d31a739301e82d2fa56e1c3e77151a.jpg",
+    "https://lid.zoocdn.com/645/430/b9cbef4bf32817031e2149305453606a48ac0adf.jpg",
+    "https://lid.zoocdn.com/645/430/9a1bac15c758f1cefb15cdf29ace282be223ea9c.jpg"
+   ],
+   "num": 22,
+   "first_seen": "2026-09-20",
+   "epc": "B"
+  },
+  {
+   "bills_included": false,
+   "short_let": false,
+   "gym_in_building": false,
    "sqft": 667,
    "station_lines": [],
    "gym": null,
@@ -939,6 +942,9 @@
     "https://lid.zoocdn.com/645/430/df9df755c48ef5e55dbc3a2b9caf041f77b1a3c7.jpg",
     "https://lid.zoocdn.com/645/430/5c3c8690806bf9a2c42ee17acddd43e82a0742d0.jpg"
    ],
+   "also_on": {
+    "Rightmove": "https://www.rightmove.co.uk/properties/92788329#/?channel=RES_LET"
+   },
    "num": 23,
    "first_seen": "2026-09-20",
    "epc": "C"
@@ -1061,6 +1067,9 @@
     "https://lid.zoocdn.com/645/430/0d70a1168e2b4a2818c97d3393641f8cf3a38f4a.jpg",
     "https://lid.zoocdn.com/645/430/c5afbc53fef0d6fc3dbd230dfc3a4509e89026fc.jpg"
    ],
+   "also_on": {
+    "Rightmove": "https://www.rightmove.co.uk/properties/90604239#/?channel=RES_LET"
+   },
    "num": 26,
    "first_seen": "2026-09-20",
    "epc": "C"
@@ -1113,6 +1122,45 @@
    "bills_included": false,
    "short_let": false,
    "gym_in_building": false,
+   "sqft": 904,
+   "station_lines": [],
+   "gym": null,
+   "gym_km": null,
+   "id": "61769269",
+   "address": "Regent Street, Brighton BN1",
+   "price": "\u00a32,325 pcm",
+   "price_num": 2325,
+   "beds": 3,
+   "baths": 2,
+   "receptions": 1,
+   "zone": null,
+   "area": "North Laine",
+   "centre_km": 0.32,
+   "lat": 50.82534,
+   "lng": -0.13876,
+   "station": "Brighton",
+   "station_km": 0.44,
+   "available": null,
+   "in_window": false,
+   "outdoor": [],
+   "furnished": "furnished",
+   "pets": null,
+   "published": "24th Aug 2026",
+   "url": "https://www.zoopla.co.uk/to-rent/details/61769269/",
+   "summary": "An incredible three bedroom apartment in one of Brighton\u2019s most exclusive blocks. Situated in the heart of the city center and Brighton\u2019s famous ...",
+   "images": [
+    "https://lid.zoocdn.com/645/430/d02040faf87e76dddea01236c835198d52f517dd.jpg",
+    "https://lid.zoocdn.com/645/430/8931275fdb92ec42bee249e4d2693c2ca5b28fbe.jpg",
+    "https://lid.zoocdn.com/645/430/20b3b5e97ae7ddffe160691b56524cb71348c68b.jpg"
+   ],
+   "num": 28,
+   "first_seen": "2026-09-20",
+   "epc": "B"
+  },
+  {
+   "bills_included": false,
+   "short_let": false,
+   "gym_in_building": false,
    "sqft": null,
    "station_lines": [],
    "gym": null,
@@ -1151,6 +1199,50 @@
    "num": 29,
    "first_seen": "2026-09-20",
    "epc": "E"
+  },
+  {
+   "bills_included": false,
+   "short_let": false,
+   "gym_in_building": false,
+   "sqft": 969,
+   "station_lines": [],
+   "gym": null,
+   "gym_km": null,
+   "id": "70918594",
+   "address": "Hawkhurst Road, Brighton BN1",
+   "price": "\u00a31,795 pcm",
+   "price_num": 1795,
+   "beds": 4,
+   "baths": 1,
+   "receptions": 1,
+   "zone": null,
+   "area": "Moulsecoomb",
+   "centre_km": 4.86,
+   "lat": 50.863,
+   "lng": -0.11365,
+   "station": "Moulsecoomb",
+   "station_km": 1.45,
+   "available": null,
+   "in_window": false,
+   "outdoor": [
+    "garden"
+   ],
+   "furnished": "furnished",
+   "pets": null,
+   "published": "21st Aug 2026",
+   "url": "https://www.zoopla.co.uk/to-rent/details/70918594/",
+   "summary": "4-BedroomHouse - Hawkhurst Road, Brighton - Available Now",
+   "images": [
+    "https://lid.zoocdn.com/645/430/21b6257a5fc37e18e4e05437241d895de3bf12bf.jpg",
+    "https://lid.zoocdn.com/645/430/e55a7c5309a306b94cd8a430f4e99daf0dfbf44e.jpg",
+    "https://lid.zoocdn.com/645/430/5de385dab72518f490170f56f168310d0262a96a.jpg"
+   ],
+   "also_on": {
+    "Rightmove": "https://www.rightmove.co.uk/properties/92237712#/?channel=RES_LET"
+   },
+   "num": 30,
+   "first_seen": "2026-09-20",
+   "epc": "B"
   },
   {
    "bills_included": false,
@@ -1201,6 +1293,48 @@
    "bills_included": false,
    "short_let": false,
    "gym_in_building": false,
+   "sqft": 914,
+   "station_lines": [],
+   "gym": null,
+   "gym_km": null,
+   "id": "67507564",
+   "address": "Fleet Street, Brighton BN1",
+   "price": "\u00a32,100 pcm",
+   "price_num": 2100,
+   "beds": 3,
+   "baths": 2,
+   "receptions": 1,
+   "zone": null,
+   "area": "North Laine",
+   "centre_km": 0.87,
+   "lat": 50.83056,
+   "lng": -0.13929,
+   "station": "Brighton",
+   "station_km": 0.22,
+   "available": null,
+   "in_window": false,
+   "outdoor": [
+    "balcony/terrace",
+    "garden"
+   ],
+   "furnished": "furnished",
+   "pets": null,
+   "published": "18th Aug 2026",
+   "url": "https://www.zoopla.co.uk/to-rent/details/67507564/",
+   "summary": "Modern, spacious and well presented 3 double bedroom, 2 bathroom part furnished purpose built flat available to rent in excellent Central Brighton ...",
+   "images": [
+    "https://lid.zoocdn.com/645/430/47b61e1e50c92b41522763e689e37ee6b2febf59.jpg",
+    "https://lid.zoocdn.com/645/430/82d6ae1cf519568d39d556c8dec262a1c85fab61.jpg",
+    "https://lid.zoocdn.com/645/430/213e603ea37f20389be35a6b7bcae912fd5d55ef.jpg"
+   ],
+   "num": 32,
+   "first_seen": "2026-09-20",
+   "epc": "C"
+  },
+  {
+   "bills_included": false,
+   "short_let": false,
+   "gym_in_building": false,
    "sqft": null,
    "station_lines": [],
    "gym": null,
@@ -1234,9 +1368,6 @@
     "https://lid.zoocdn.com/645/430/337cca76a8b27563c255f04eb702bd776f881321.jpg",
     "https://lid.zoocdn.com/645/430/8ac0ad2c3546bfa4d0c115c126e9571306d5c0fc.jpg"
    ],
-   "also_on": {
-    "Rightmove": "https://www.rightmove.co.uk/properties/165048737#/?channel=RES_LET"
-   },
    "num": 33,
    "first_seen": "2026-09-20",
    "epc": "D"
@@ -1278,9 +1409,6 @@
     "https://lid.zoocdn.com/645/430/6c2cdfeeae8dddafa65d1452a19e93f927aae4cc.jpg",
     "https://lid.zoocdn.com/645/430/b9d80685ed97b6f07f0505ee6d2058aee028d37b.jpg"
    ],
-   "also_on": {
-    "Rightmove": "https://www.rightmove.co.uk/properties/92788329#/?channel=RES_LET"
-   },
    "num": 34,
    "first_seen": "2026-09-20",
    "epc": "C"
@@ -1324,8 +1452,51 @@
    ],
    "num": 35,
    "first_seen": "2026-09-20",
-   "epc": "D",
-   "unavailable": true
+   "epc": "D"
+  },
+  {
+   "bills_included": false,
+   "short_let": false,
+   "gym_in_building": false,
+   "sqft": 1054,
+   "station_lines": [],
+   "gym": null,
+   "gym_km": null,
+   "id": "64745098",
+   "address": "Blackmore Court, Brighton BN1",
+   "price": "\u00a32,350 pcm",
+   "price_num": 2350,
+   "beds": 3,
+   "baths": 2,
+   "receptions": 1,
+   "zone": null,
+   "area": "North Laine",
+   "centre_km": 0.85,
+   "lat": 50.83026,
+   "lng": -0.13822,
+   "station": "Brighton",
+   "station_km": 0.25,
+   "available": null,
+   "in_window": false,
+   "outdoor": [
+    "balcony/terrace"
+   ],
+   "furnished": "furnished",
+   "pets": null,
+   "published": "6th Jul 2026",
+   "url": "https://www.zoopla.co.uk/to-rent/details/64745098/",
+   "summary": "3-bedroom split-level city centre penthouse apartment with two private balconies in a desirable modern development, moments from the North Laine. ...",
+   "images": [
+    "https://lid.zoocdn.com/645/430/757dd77fb6ac70048bda7fbf70801e9482f844e3.jpg",
+    "https://lid.zoocdn.com/645/430/8b9cf5d40a30d8cc9d19ea7f07adcc71edffb1a3.jpg",
+    "https://lid.zoocdn.com/645/430/5f951e75dc255f26d0ca76c679a04824c930336b.jpg"
+   ],
+   "also_on": {
+    "Rightmove": "https://www.rightmove.co.uk/properties/165048737#/?channel=RES_LET"
+   },
+   "num": 38,
+   "first_seen": "2026-09-20",
+   "epc": "D"
   },
   {
    "bills_included": false,
@@ -1393,7 +1564,7 @@
    "outdoor": [
     "garden"
    ],
-   "furnished": "furnished",
+   "furnished": null,
    "pets": null,
    "published": "2nd Jul 2026",
    "url": "https://www.zoopla.co.uk/to-rent/details/73611061/",
@@ -1657,6 +1828,50 @@
    "bills_included": false,
    "short_let": false,
    "gym_in_building": false,
+   "sqft": null,
+   "station_lines": [],
+   "gym": null,
+   "gym_km": null,
+   "id": "74288303",
+   "address": "Hillside, Brighton BN2",
+   "price": "\u00a32,200 pcm",
+   "price_num": 2200,
+   "beds": 3,
+   "baths": 1,
+   "receptions": null,
+   "zone": null,
+   "area": "Moulsecoomb",
+   "centre_km": 3.29,
+   "lat": 50.8457,
+   "lng": -0.11113,
+   "station": "Moulsecoomb",
+   "station_km": 0.48,
+   "available": null,
+   "in_window": false,
+   "outdoor": [
+    "garden"
+   ],
+   "furnished": "furnished",
+   "pets": null,
+   "published": "20th Sep 2026",
+   "url": "https://www.zoopla.co.uk/to-rent/details/74288303/",
+   "summary": "We are proud to offer this delightful 3bedroom, 1 bathroom house in a great location. Available to move in from from 21/09/2026, this property ...",
+   "images": [
+    "https://lid.zoocdn.com/645/430/a7b49a5ba2cc1e87034a1b2b269b692d5a60ec56.jpg",
+    "https://lid.zoocdn.com/645/430/63c115902920ea14cf535be07e6eb8d0eb6c798b.jpg",
+    "https://lid.zoocdn.com/645/430/6b6b8eaa157ab91fe844f8d912d01dc5ff12acd3.jpg"
+   ],
+   "also_on": {
+    "Rightmove": "https://www.rightmove.co.uk/properties/93354780#/?channel=RES_LET",
+    "OpenRent": "https://www.openrent.co.uk/3046292"
+   },
+   "num": 49,
+   "first_seen": "2026-09-20"
+  },
+  {
+   "bills_included": false,
+   "short_let": false,
+   "gym_in_building": false,
    "sqft": 1195,
    "station_lines": [],
    "gym": null,
@@ -1731,8 +1946,7 @@
     "Rightmove": "https://www.rightmove.co.uk/properties/93101892#/?channel=RES_LET"
    },
    "num": 53,
-   "first_seen": "2026-09-20",
-   "unavailable": true
+   "first_seen": "2026-09-20"
   },
   {
    "id": "70005092",
@@ -1809,7 +2023,8 @@
    },
    "num": 55,
    "first_seen": "2026-09-20",
-   "epc": "B"
+   "epc": "B",
+   "unavailable": true
   },
   {
    "bills_included": false,
@@ -1850,8 +2065,7 @@
    ],
    "num": 56,
    "first_seen": "2026-09-20",
-   "epc": "A",
-   "unavailable": true
+   "epc": "A"
   },
   {
    "bills_included": false,
@@ -1895,8 +2109,7 @@
    },
    "num": 57,
    "first_seen": "2026-09-20",
-   "epc": "D",
-   "unavailable": true
+   "epc": "D"
   },
   {
    "bills_included": false,
@@ -2094,9 +2307,9 @@
    "available": null,
    "in_window": false,
    "outdoor": [
-    "mentioned in description"
+    "garden"
    ],
-   "furnished": null,
+   "furnished": "furnished",
    "pets": null,
    "published": "8th Sep 2026",
    "url": "https://www.zoopla.co.uk/to-rent/details/74179972/",
@@ -2134,9 +2347,9 @@
    "available": null,
    "in_window": false,
    "outdoor": [
-    "mentioned in description"
+    "garden"
    ],
-   "furnished": null,
+   "furnished": "furnished",
    "pets": null,
    "published": "8th Sep 2026",
    "url": "https://www.zoopla.co.uk/to-rent/details/74179985/",
@@ -2298,9 +2511,9 @@
    "available": null,
    "in_window": false,
    "outdoor": [
-    "mentioned in description"
+    "garden"
    ],
-   "furnished": null,
+   "furnished": "furnished",
    "pets": null,
    "published": "7th Sep 2026",
    "url": "https://www.zoopla.co.uk/to-rent/details/74166325/",
@@ -2339,9 +2552,9 @@
    "available": null,
    "in_window": false,
    "outdoor": [
-    "mentioned in description"
+    "garden"
    ],
-   "furnished": null,
+   "furnished": "furnished",
    "pets": null,
    "published": "7th Sep 2026",
    "url": "https://www.zoopla.co.uk/to-rent/details/74166296/",
@@ -2437,7 +2650,7 @@
     "https://lid.zoocdn.com/645/430/d62cd0922c6aab415f3bebeb7e2cf7416413b5c9.jpg"
    ],
    "also_on": {
-    "Rightmove": "https://www.rightmove.co.uk/properties/92491143#/?channel=RES_LET"
+    "Rightmove": "https://www.rightmove.co.uk/properties/92718564#/?channel=RES_LET"
    },
    "num": 70,
    "first_seen": "2026-09-20"
@@ -2511,7 +2724,7 @@
    "available": "2026-10-13",
    "in_window": true,
    "outdoor": [
-    "mentioned in description"
+    "garden"
    ],
    "furnished": "unfurnished",
    "pets": null,
@@ -2600,9 +2813,9 @@
    "available": null,
    "in_window": false,
    "outdoor": [
-    "mentioned in description"
+    "garden"
    ],
-   "furnished": null,
+   "furnished": "furnished",
    "pets": null,
    "published": "4th Sep 2026",
    "url": "https://www.zoopla.co.uk/to-rent/details/74143320/",
@@ -2769,9 +2982,9 @@
    "available": null,
    "in_window": false,
    "outdoor": [
-    "mentioned in description"
+    "garden"
    ],
-   "furnished": null,
+   "furnished": "furnished",
    "pets": null,
    "published": "1st Sep 2026",
    "url": "https://www.zoopla.co.uk/to-rent/details/74109616/",
@@ -2810,9 +3023,9 @@
    "available": "2026-10-06",
    "in_window": true,
    "outdoor": [
-    "mentioned in description"
+    "garden"
    ],
-   "furnished": null,
+   "furnished": "furnished",
    "pets": null,
    "published": "31st Aug 2026",
    "url": "https://www.zoopla.co.uk/to-rent/details/74105222/",
@@ -2863,9 +3076,9 @@
    "url": "https://www.zoopla.co.uk/to-rent/details/69036468/",
    "summary": "Four bedroom period home | three floors | private patio garden | conservatory | available November 2026 | modern kitchen | two toilets | ...",
    "images": [
-    "https://lid.zoocdn.com/645/430/a49492f2560830be52fd3a5d4296cb6d883f2c12.jpg",
-    "https://lid.zoocdn.com/645/430/e75ed762281cb8c0d2a78b35c505798fe755c4e8.jpg",
-    "https://lid.zoocdn.com/645/430/4ec75c26d7daf6a6b42fb2cd615ad013681c3281.jpg"
+    "https://lid.zoocdn.com/645/430/d8fbb0b3020bcdd34a6dffc5b8482aa195ea3238.jpg",
+    "https://lid.zoocdn.com/645/430/025596f0af354a746837ca4440d2fd0b2d772405.jpg",
+    "https://lid.zoocdn.com/645/430/e75ed762281cb8c0d2a78b35c505798fe755c4e8.jpg"
    ],
    "also_on": {
     "Rightmove": "https://www.rightmove.co.uk/properties/92515230#/?channel=RES_LET"
@@ -2962,7 +3175,8 @@
    },
    "num": 83,
    "first_seen": "2026-09-20",
-   "epc": "C"
+   "epc": "C",
+   "unavailable": true
   },
   {
    "bills_included": false,
@@ -3003,7 +3217,8 @@
    ],
    "num": 86,
    "first_seen": "2026-09-20",
-   "epc": "D"
+   "epc": "D",
+   "unavailable": true
   },
   {
    "bills_included": false,
@@ -3030,7 +3245,7 @@
    "available": "2026-10-23",
    "in_window": true,
    "outdoor": [
-    "mentioned in description"
+    "garden"
    ],
    "furnished": "unfurnished",
    "pets": null,
@@ -3088,7 +3303,8 @@
    ],
    "num": 90,
    "first_seen": "2026-09-20",
-   "epc": "D"
+   "epc": "D",
+   "unavailable": true
   },
   {
    "bills_included": false,
@@ -3132,7 +3348,8 @@
    },
    "num": 91,
    "first_seen": "2026-09-20",
-   "epc": "C"
+   "epc": "C",
+   "unavailable": true
   },
   {
    "bills_included": false,
@@ -3159,9 +3376,9 @@
    "available": null,
    "in_window": false,
    "outdoor": [
-    "mentioned in description"
+    "garden"
    ],
-   "furnished": null,
+   "furnished": "furnished",
    "pets": null,
    "published": "16th Aug 2026",
    "url": "https://www.zoopla.co.uk/to-rent/details/73993958/",
@@ -3172,47 +3389,6 @@
     "https://lid.zoocdn.com/645/430/0479f8c69e44c617254d544d6a7523eb6f27db0f.jpg"
    ],
    "num": 92,
-   "first_seen": "2026-09-20",
-   "epc": "D"
-  },
-  {
-   "bills_included": false,
-   "short_let": false,
-   "gym_in_building": false,
-   "sqft": 1076,
-   "station_lines": [],
-   "gym": null,
-   "gym_km": null,
-   "id": "73967484",
-   "address": "Wheatfield Way, Brighton BN2",
-   "price": "\u00a31,800 pcm",
-   "price_num": 1800,
-   "beds": 4,
-   "baths": 1,
-   "receptions": 1,
-   "zone": null,
-   "area": "Moulsecoomb",
-   "centre_km": 4.15,
-   "lat": 50.85105,
-   "lng": -0.1022,
-   "station": "Moulsecoomb",
-   "station_km": 0.7,
-   "available": null,
-   "in_window": false,
-   "outdoor": [
-    "garden"
-   ],
-   "furnished": null,
-   "pets": null,
-   "published": "12th Aug 2026",
-   "url": "https://www.zoopla.co.uk/to-rent/details/73967484/",
-   "summary": " Coapt are delighted to present this spacious three bedroom, semi-detached bungalow located in a quiet residential area of Moulsecoomb. The ...",
-   "images": [
-    "https://lid.zoocdn.com/645/430/ec88ae5b7e7e066b1917a34b9620df201df625be.jpg",
-    "https://lid.zoocdn.com/645/430/b7b900a71748ce7ebc0c3269c04a98ed28b41bab.jpg",
-    "https://lid.zoocdn.com/645/430/7ec8a6def72b37c9ffa86ef1f1befc6b3c5ff23b.jpg"
-   ],
-   "num": 93,
    "first_seen": "2026-09-20",
    "epc": "D"
   },
@@ -3282,7 +3458,7 @@
    "available": null,
    "in_window": false,
    "outdoor": [
-    "mentioned in description"
+    "garden"
    ],
    "furnished": "unfurnished",
    "pets": null,
@@ -3291,7 +3467,7 @@
    "summary": " A three-bedroom apartment occupying the entire first floor of a well-kept mid-terrace home, located just off Lewes road and within easy access to ...",
    "images": [
     "https://lid.zoocdn.com/645/430/93612cfb0de8c49a60e12b943b0c8dd7949497f0.jpg",
-    "https://lid.zoocdn.com/645/430/6c265bf4bd1fc158589f6fe5b05c0e56fda4d3b8.jpg",
+    "https://lid.zoocdn.com/645/430/640b2b785ca7682b2dab86b4f7e00b4e44eb2cbd.jpg",
     "https://lid.zoocdn.com/645/430/28f2813a9fe3094f69303eb98462426f4d1c759e.jpg"
    ],
    "also_on": {
@@ -3339,47 +3515,6 @@
     "https://lid.zoocdn.com/645/430/ae5664580d3e520f1ca33c2ffd207fcc2dd99474.jpg"
    ],
    "num": 99,
-   "first_seen": "2026-09-20",
-   "epc": "C"
-  },
-  {
-   "bills_included": false,
-   "short_let": false,
-   "gym_in_building": false,
-   "sqft": 1073,
-   "station_lines": [],
-   "gym": null,
-   "gym_km": null,
-   "id": "73700019",
-   "address": "Upper Lewes Road, Brighton, East Sussex BN2",
-   "price": "\u00a32,450 pcm",
-   "price_num": 2450,
-   "beds": 5,
-   "baths": 1,
-   "receptions": 1,
-   "zone": null,
-   "area": "Elm Grove",
-   "centre_km": 1.81,
-   "lat": 50.8362,
-   "lng": -0.1263,
-   "station": "London Road",
-   "station_km": 0.68,
-   "available": null,
-   "in_window": false,
-   "outdoor": [
-    "garden"
-   ],
-   "furnished": "furnished",
-   "pets": null,
-   "published": "13th Jul 2026",
-   "url": "https://www.zoopla.co.uk/to-rent/details/73700019/",
-   "summary": " A furnished five-bedroom student house arranged over three floors, ideally located close to Brighton's universities and city centre. The property ...",
-   "images": [
-    "https://lid.zoocdn.com/645/430/044afd94daa369a2545962705e363ebe5caa1a9b.jpg",
-    "https://lid.zoocdn.com/645/430/a315a74bf5ca695f8b67f7db7a1e52aef1dee29c.jpg",
-    "https://lid.zoocdn.com/645/430/977cf26a28ff7377a95a22d332e4b489e93990cb.jpg"
-   ],
-   "num": 100,
    "first_seen": "2026-09-20",
    "epc": "C"
   },
@@ -3448,7 +3583,9 @@
    "station_km": 1.1,
    "available": "2026-11-17",
    "in_window": true,
-   "outdoor": [],
+   "outdoor": [
+    "garden"
+   ],
    "furnished": "furnished",
    "pets": null,
    "published": "10th Jul 2026",
@@ -3465,8 +3602,7 @@
    },
    "num": 102,
    "first_seen": "2026-09-20",
-   "epc": "E",
-   "unavailable": true
+   "epc": "E"
   },
   {
    "id": "73658681",
@@ -3549,6 +3685,44 @@
    "bills_included": false,
    "short_let": false,
    "gym_in_building": false,
+   "sqft": null,
+   "station_lines": [],
+   "gym": null,
+   "gym_km": null,
+   "id": "45842771",
+   "address": "Lewes Road, Brighton BN2",
+   "price": "\u00a31,995 pcm",
+   "price_num": 1995,
+   "beds": 3,
+   "baths": 1,
+   "receptions": 1,
+   "zone": null,
+   "area": "Hanover",
+   "centre_km": 1.5,
+   "lat": 50.83351,
+   "lng": -0.12794,
+   "station": "London Road",
+   "station_km": 0.66,
+   "available": null,
+   "in_window": false,
+   "outdoor": [],
+   "furnished": null,
+   "pets": null,
+   "published": "2nd Jul 2026",
+   "url": "https://www.zoopla.co.uk/to-rent/details/45842771/",
+   "summary": " No deposit | student friendly | newly refurbished Simply Lettings are pleased to present this spacious three-bedroom upper maisonette, ideally ...",
+   "images": [
+    "https://lid.zoocdn.com/645/430/01b5ebdec3b5baea1b0be68a42b2d9009bd5b859.jpg",
+    "https://lid.zoocdn.com/645/430/a33cc37a97f17004f7d4d06aacd54d226258411a.jpg",
+    "https://lid.zoocdn.com/645/430/1bbe8e3f8baf7c606471b1eb9513d7f55829643b.jpg"
+   ],
+   "num": 106,
+   "first_seen": "2026-09-20"
+  },
+  {
+   "bills_included": false,
+   "short_let": false,
+   "gym_in_building": false,
    "sqft": 1022,
    "station_lines": [],
    "gym": null,
@@ -3585,6 +3759,45 @@
    "num": 107,
    "first_seen": "2026-09-20",
    "epc": "E"
+  },
+  {
+   "bills_included": false,
+   "short_let": false,
+   "gym_in_building": false,
+   "sqft": 904,
+   "station_lines": [],
+   "gym": null,
+   "gym_km": null,
+   "id": "62883881",
+   "address": "Staplefield Drive, Brighton, East Sussex BN2",
+   "price": "\u00a32,200 pcm",
+   "price_num": 2200,
+   "beds": 5,
+   "baths": 1,
+   "receptions": 1,
+   "zone": null,
+   "area": "Moulsecoomb",
+   "centre_km": 3.8,
+   "lat": 50.84836,
+   "lng": -0.10503,
+   "station": "Moulsecoomb",
+   "station_km": 0.52,
+   "available": null,
+   "in_window": false,
+   "outdoor": [],
+   "furnished": "furnished",
+   "pets": null,
+   "published": "20th Apr 2026",
+   "url": "https://www.zoopla.co.uk/to-rent/details/62883881/",
+   "summary": "Video tour available | large five bedroom student house This generous and well-presented student property has 5 bedrooms making it the ideal home ...",
+   "images": [
+    "https://lid.zoocdn.com/645/430/1a37673c2002e26d014dfb9eb71e633fb73efe8b.jpg",
+    "https://lid.zoocdn.com/645/430/bb5a67b821e84d778e5421544f6a8cd9323f27ce.jpg",
+    "https://lid.zoocdn.com/645/430/28864de42c5d4b33a0b183d52b8f1671d370c891.jpg"
+   ],
+   "num": 108,
+   "first_seen": "2026-09-20",
+   "epc": "D"
   },
   {
    "bills_included": false,
@@ -3667,6 +3880,50 @@
    "epc": "D"
   },
   {
+   "bills_included": false,
+   "short_let": false,
+   "gym_in_building": false,
+   "sqft": 1054,
+   "station_lines": [],
+   "gym": null,
+   "gym_km": null,
+   "id": "69988772",
+   "address": "Fletching Close, Brighton BN2",
+   "price": "\u00a31,800 pcm",
+   "price_num": 1800,
+   "beds": 3,
+   "baths": 1,
+   "receptions": 1,
+   "zone": null,
+   "area": "Whitehawk",
+   "centre_km": 2.53,
+   "lat": 50.82547,
+   "lng": -0.10513,
+   "station": "London Road",
+   "station_km": 2.49,
+   "available": null,
+   "in_window": false,
+   "outdoor": [
+    "garden"
+   ],
+   "furnished": "unfurnished",
+   "pets": null,
+   "published": "2nd Jul 2026",
+   "url": "https://www.zoopla.co.uk/to-rent/details/69988772/",
+   "summary": "**Zero Deposit Available** *** ideal family home // available now // free parking *** Situated in the vibrant Whitehawk area of Brighton, ...",
+   "images": [
+    "https://lid.zoocdn.com/645/430/604a1c988eea9251f9a0f3aabe7587aaf724f41a.jpg",
+    "https://lid.zoocdn.com/645/430/85c60f557125da8509ebdf5f76c0209327c3244b.jpg",
+    "https://lid.zoocdn.com/645/430/cca1fcaeb41c8a5d662766957ac097d887cb6376.jpg"
+   ],
+   "also_on": {
+    "Rightmove": "https://www.rightmove.co.uk/properties/90430245#/?channel=RES_LET"
+   },
+   "num": 111,
+   "first_seen": "2026-09-20",
+   "epc": "C"
+  },
+  {
    "bills_included": true,
    "short_let": false,
    "gym_in_building": false,
@@ -3738,7 +3995,7 @@
    "pets": null,
    "published": "27th Jan 2026",
    "url": "https://www.zoopla.co.uk/to-rent/details/72276190/",
-   "summary": " Just Let's presents a well situated, five bedroom, part-furnished house. The property would be ideal for students or professional sharers due to ...",
+   "summary": " Just Let's presents a well situated, five bed, two bath, part-furnished house. Situated in Moulsecoomb and Bevendean, the property would be ideal ...",
    "images": [
     "https://lid.zoocdn.com/645/430/30d7ac2c480494f8e8a7e9b46083bab7de94b3a4.jpg",
     "https://lid.zoocdn.com/645/430/f023167eac0efa6a8745040c1582e5868371f2fa.jpg",
@@ -3875,47 +4132,6 @@
    "epc": "E"
   },
   {
-   "bills_included": false,
-   "short_let": false,
-   "gym_in_building": false,
-   "sqft": 710,
-   "station_lines": [],
-   "gym": null,
-   "gym_km": null,
-   "id": "73313970",
-   "address": "Selsfield Drive BN2",
-   "price": "\u00a32,145 pcm",
-   "price_num": 2145,
-   "beds": 3,
-   "baths": 2,
-   "receptions": null,
-   "zone": null,
-   "area": "Moulsecoomb",
-   "centre_km": 3.56,
-   "lat": 50.8492,
-   "lng": -0.11225,
-   "station": "Moulsecoomb",
-   "station_km": 0.09,
-   "available": null,
-   "in_window": false,
-   "outdoor": [
-    "garden"
-   ],
-   "furnished": null,
-   "pets": null,
-   "published": "5th Feb 2026",
-   "url": "https://www.zoopla.co.uk/to-rent/details/73313970/",
-   "summary": " Tenure: Leasehold Four double bedrooms | newly refurbished | perfect student location | excellent transport links | two bathrooms | Coapt ref: ...",
-   "images": [
-    "https://lid.zoocdn.com/645/430/368a9736dc80c9d1d7317248467319623bf41d77.jpg",
-    "https://lid.zoocdn.com/645/430/07d69f66698f88eab6dbde1c0d0998d3cb1eca28.jpg",
-    "https://lid.zoocdn.com/645/430/4c6954ee2e5fb030610545892a7e225ab82c6505.jpg"
-   ],
-   "num": 121,
-   "first_seen": "2026-09-20",
-   "epc": "C"
-  },
-  {
    "bills_included": true,
    "short_let": false,
    "gym_in_building": false,
@@ -3980,14 +4196,12 @@
    "station_km": 1.16,
    "available": null,
    "in_window": false,
-   "outdoor": [
-    "mentioned in description"
-   ],
+   "outdoor": [],
    "furnished": "furnished",
    "pets": null,
    "published": "8th Dec 2025",
    "url": "https://www.zoopla.co.uk/to-rent/details/46308277/",
-   "summary": " **students/sharers three or four bedroom** off road parking** includes gardening services** recently redecroated and new bathroom** A furnished ...",
+   "summary": " **families or sharers welcome** A furnished/unfurnished four/three double bedroom property with contemporary kitchen. Fitted bathroom with shower ...",
    "images": [
     "https://lid.zoocdn.com/645/430/1abe6ba5bf72ca8c5458a5dd9b052645a84051e9.jpg",
     "https://lid.zoocdn.com/645/430/3032e1508c9ec3decc15ba3627c3cb81ef6bcc74.jpg",
@@ -3996,47 +4210,6 @@
    "num": 123,
    "first_seen": "2026-09-20",
    "epc": "C"
-  },
-  {
-   "bills_included": true,
-   "short_let": false,
-   "gym_in_building": false,
-   "sqft": 861,
-   "station_lines": [],
-   "gym": null,
-   "gym_km": null,
-   "id": "71962272",
-   "address": "Eastbourne Road, Brighton BN2",
-   "price": "\u00a32,061 pcm",
-   "price_num": 2061,
-   "beds": 4,
-   "baths": 1,
-   "receptions": 1,
-   "zone": null,
-   "area": "Moulsecoomb",
-   "centre_km": 2.75,
-   "lat": 50.84053,
-   "lng": -0.11369,
-   "station": "Moulsecoomb",
-   "station_km": 1.06,
-   "available": null,
-   "in_window": false,
-   "outdoor": [
-    "garden"
-   ],
-   "furnished": "furnished",
-   "pets": null,
-   "published": "8th Dec 2025",
-   "url": "https://www.zoopla.co.uk/to-rent/details/71962272/",
-   "summary": "Offered Bills inclusive for Gas Water and Electric on fair usage is this well presented 4 bedroom student house enjoying gas central heating and ...",
-   "images": [
-    "https://lid.zoocdn.com/645/430/f89f6139a089a037bcbf6f2302e55e7aa7436566.jpg",
-    "https://lid.zoocdn.com/645/430/76624aedd1679c0e72250e7feafd4dfcc4afad46.jpg",
-    "https://lid.zoocdn.com/645/430/2647b93904372090cd84f95ac8848584d8470f15.jpg"
-   ],
-   "num": 124,
-   "first_seen": "2026-09-20",
-   "epc": "D"
   },
   {
    "bills_included": false,
@@ -4172,8 +4345,8 @@
    "gym_km": null,
    "id": "74234003",
    "address": "Salisbury Road, Hove BN3",
-   "price": "\u00a32,200 pcm",
-   "price_num": 2200,
+   "price": "\u00a32,100 pcm",
+   "price_num": 2100,
    "beds": 3,
    "baths": null,
    "receptions": 1,
@@ -4242,7 +4415,8 @@
    ],
    "num": 130,
    "first_seen": "2026-09-20",
-   "epc": "C"
+   "epc": "C",
+   "unavailable": true
   },
   {
    "bills_included": false,
@@ -4638,6 +4812,9 @@
     "https://lid.zoocdn.com/645/430/248209766dc3f25dd81dbb2ff99ca9409f5030eb.jpg",
     "https://lid.zoocdn.com/645/430/f135da2a8f5aba10c4488b675bfea274b936354a.jpg"
    ],
+   "also_on": {
+    "OpenRent": "https://www.openrent.co.uk/2644601"
+   },
    "num": 146,
    "first_seen": "2026-09-20",
    "epc": "C"
@@ -4685,50 +4862,6 @@
    "num": 147,
    "first_seen": "2026-09-20",
    "epc": "C"
-  },
-  {
-   "bills_included": false,
-   "short_let": false,
-   "gym_in_building": false,
-   "sqft": null,
-   "station_lines": [],
-   "gym": null,
-   "gym_km": null,
-   "id": "73317637",
-   "address": "Lyndhurst Road, Hove BN3",
-   "price": "\u00a32,100 pcm",
-   "price_num": 2100,
-   "beds": 3,
-   "baths": 1,
-   "receptions": null,
-   "zone": null,
-   "area": "Seven Dials",
-   "centre_km": 1.63,
-   "lat": 50.83309,
-   "lng": -0.15742,
-   "station": "Hove",
-   "station_km": 0.99,
-   "available": null,
-   "in_window": false,
-   "outdoor": [
-    "garden"
-   ],
-   "furnished": "unfurnished",
-   "pets": "yes",
-   "published": "28th May 2026",
-   "url": "https://www.zoopla.co.uk/to-rent/details/73317637/",
-   "summary": "3 bedroomed unfurnished spacious ground floor conversion flat in central hove, council tax C Sought after Lyndhurst road in a block of apartments ...",
-   "images": [
-    "https://lid.zoocdn.com/645/430/d295a1e399dd0d83fc83ca59e8d3c7ae3626407c.jpg",
-    "https://lid.zoocdn.com/645/430/a0f93d4b87049b75f98750a9c5ba417b8eba8e26.jpg",
-    "https://lid.zoocdn.com/645/430/8ecfa37462c91527ba50392a4244a3a961c46e5c.jpg"
-   ],
-   "also_on": {
-    "OpenRent": "https://www.openrent.co.uk/2912590"
-   },
-   "num": 148,
-   "first_seen": "2026-09-20",
-   "epc": "D"
   },
   {
    "bills_included": false,
@@ -5312,8 +5445,8 @@
    "id": "rm92282970",
    "source": "Rightmove",
    "address": "DEPOSIT ALTERNATIVE AVAILABLE, Hillside, BN2",
-   "price": "\u00a32,150 pcm",
-   "price_num": 2150,
+   "price": "\u00a32,000 pcm",
+   "price_num": 2000,
    "beds": 4,
    "baths": 2,
    "receptions": null,
@@ -5470,6 +5603,123 @@
    "epc": "C"
   },
   {
+   "id": "or2877602",
+   "source": "OpenRent",
+   "address": "Regent House, BN1",
+   "price": "\u00a31,500 pcm",
+   "price_num": 1500,
+   "beds": 1,
+   "baths": 1,
+   "receptions": null,
+   "lat": 50.822647,
+   "lng": -0.1391601,
+   "available": null,
+   "date_unknown": true,
+   "outdoor": [],
+   "furnished": "furnished",
+   "pets": "no",
+   "published": "",
+   "url": "https://www.openrent.co.uk/2877602",
+   "summary": "We are proud to offer this delightful 1 bedroom, 1 bathroom flat in a great location.   Available from the 01 October 2026",
+   "images": [
+    "https://imagescdn.openrent.co.uk/listings/2877602/o_1k22aiqhiib11r5r1vtv1v19m2u0.JPG_homepage.JPG"
+   ],
+   "zone": null,
+   "area": "North Laine",
+   "centre_km": 0.12,
+   "station": "Brighton",
+   "station_km": 0.72,
+   "station_lines": [],
+   "gym": null,
+   "gym_km": null,
+   "bills_included": false,
+   "short_let": false,
+   "gym_in_building": false,
+   "in_window": false,
+   "num": 173,
+   "first_seen": "2026-09-20",
+   "epc": "C"
+  },
+  {
+   "id": "or2957204",
+   "source": "OpenRent",
+   "address": "Green Diamond, BN1",
+   "price": "\u00a31,950 pcm",
+   "price_num": 1950,
+   "beds": 2,
+   "baths": 1,
+   "receptions": null,
+   "lat": 50.820263,
+   "lng": -0.1399668,
+   "available": null,
+   "date_unknown": true,
+   "outdoor": [],
+   "furnished": "furnished",
+   "pets": "no",
+   "published": "",
+   "url": "https://www.openrent.co.uk/2957204",
+   "summary": "This property is available between 14th September 2026 to 22nd March 2027 - Agreements can be from a minimum 3 to a maximum",
+   "images": [
+    "https://imagescdn.openrent.co.uk/listings/1766358/o_1h5aoutlpm5c1c63g5qmtt1t330.JPG_homepage.JPG"
+   ],
+   "zone": null,
+   "area": "North Laine",
+   "centre_km": 0.29,
+   "station": "Brighton",
+   "station_km": 0.98,
+   "station_lines": [],
+   "gym": null,
+   "gym_km": null,
+   "bills_included": false,
+   "short_let": false,
+   "gym_in_building": false,
+   "in_window": false,
+   "num": 174,
+   "first_seen": "2026-09-20",
+   "epc": "C"
+  },
+  {
+   "id": "or3033889",
+   "source": "OpenRent",
+   "address": "Clarence Yard, BN1",
+   "price": "\u00a31,525 pcm",
+   "price_num": 1525,
+   "beds": 1,
+   "baths": 1,
+   "receptions": null,
+   "lat": 50.822704,
+   "lng": -0.1409311,
+   "available": null,
+   "date_unknown": true,
+   "outdoor": [],
+   "furnished": "furnished",
+   "pets": "yes",
+   "published": "",
+   "url": "https://www.openrent.co.uk/3033889",
+   "summary": "We are proud to offer this delightful 1 bedroom, 1 bathroom flat in a great location.  Available to move in from 01 Novembe",
+   "images": [
+    "https://imagescdn.openrent.co.uk/listings/3033889/o_1k219fhve10p714fc14qemcodg71.JPG_homepage.JPG"
+   ],
+   "zone": null,
+   "area": "North Laine",
+   "centre_km": 0.01,
+   "station": "Brighton",
+   "station_km": 0.7,
+   "station_lines": [],
+   "gym": null,
+   "gym_km": null,
+   "bills_included": false,
+   "short_let": false,
+   "gym_in_building": false,
+   "in_window": false,
+   "also_on": {
+    "OpenRent": "https://www.openrent.co.uk/3050173"
+   },
+   "num": 175,
+   "first_seen": "2026-09-20",
+   "epc": "C"
+  },
+  {
    "id": "or3027794",
    "source": "OpenRent",
    "address": "West Street, BN1",
@@ -5582,46 +5832,6 @@
    "num": 178,
    "first_seen": "2026-09-20",
    "epc": "C"
-  },
-  {
-   "id": "or2975476",
-   "source": "OpenRent",
-   "address": "Windsor Lodge - All Bills Included, BN1",
-   "price": "\u00a31,950 pcm",
-   "price_num": 1950,
-   "beds": 1,
-   "baths": 1,
-   "receptions": null,
-   "lat": 50.824352,
-   "lng": -0.142485,
-   "available": null,
-   "date_unknown": true,
-   "outdoor": [],
-   "furnished": "furnished",
-   "pets": "yes",
-   "published": "",
-   "url": "https://www.openrent.co.uk/2975476",
-   "summary": "Available for stays from 1 to 6 months \u2013 all bills included Enjoy Brighton living in this modern and fully furnished 1-bedr",
-   "images": [
-    "https://imagescdn.openrent.co.uk/listings/2975476/o_1ju21nl311pen1gp71gfp1hbegcu0.JPG_homepage.JPG"
-   ],
-   "zone": null,
-   "area": "North Laine",
-   "centre_km": 0.21,
-   "station": "Brighton",
-   "station_km": 0.53,
-   "station_lines": [],
-   "gym": null,
-   "gym_km": null,
-   "bills_included": true,
-   "short_let": false,
-   "gym_in_building": false,
-   "in_window": false,
-   "also_on": {
-    "OpenRent": "https://www.openrent.co.uk/2869914"
-   },
-   "num": 179,
-   "first_seen": "2026-09-20"
   },
   {
    "id": "or2958134",
@@ -5950,7 +6160,7 @@
    "pets": "no",
    "published": "",
    "url": "https://www.openrent.co.uk/2992536",
-   "summary": "Bang on in the centre by Churchill Square and right by the sea   For single, a couple or two close colleagues / friends in-",
+   "summary": "Bang on in the centre by Churchill Square and right by the sea   Fully equipped self-contained studio apartments for 1-2 pe",
    "images": [
     "https://imagescdn.openrent.co.uk/listings/1814448/o_1h9090f8fgv31rmp1h29fcg1sgk1.JPG_homepage.JPG"
    ],
@@ -6345,9 +6555,6 @@
    "short_let": false,
    "gym_in_building": false,
    "in_window": false,
-   "also_on": {
-    "OpenRent": "https://www.openrent.co.uk/3037887"
-   },
    "num": 204,
    "first_seen": "2026-09-20",
    "epc": "C"
@@ -6628,8 +6835,8 @@
    "id": "or3036166",
    "source": "OpenRent",
    "address": "Oriental Place, BN1",
-   "price": "\u00a3795 pcm",
-   "price_num": 795,
+   "price": "\u00a3650 pcm",
+   "price_num": 650,
    "beds": 0,
    "baths": 1,
    "receptions": null,
@@ -6642,7 +6849,7 @@
    "pets": "yes",
    "published": "",
    "url": "https://www.openrent.co.uk/3036166",
-   "summary": "PRIVATE ROOM \u2022 SHARED BATHROOM \u2022 BRIGHTON SEAFRONTLooking for affordable, flexible accommodation by the sea without committ",
+   "summary": "PRIVATE Studio ROOM \u2022 SHARED BATHROOM \u2022 BRIGHTON SEAFRONT  Move in today \u2014 flexible 28-night stays from \u00a3650Looking for aff",
    "images": [
     "https://imagescdn.openrent.co.uk/listings/3036166/o_1k25v836110ls72q1qjc42fq5l3.JPG_homepage.JPG"
    ],
@@ -6698,6 +6905,48 @@
    "num": 216,
    "first_seen": "2026-09-20",
    "epc": "E"
+  },
+  {
+   "id": "or3021448",
+   "source": "OpenRent",
+   "address": "Funky Garden, BN1",
+   "price": "\u00a31,495 pcm",
+   "price_num": 1495,
+   "beds": 1,
+   "baths": 1,
+   "receptions": null,
+   "lat": 50.828354,
+   "lng": -0.1491381,
+   "available": null,
+   "date_unknown": true,
+   "outdoor": [
+    "garden"
+   ],
+   "furnished": "furnished",
+   "pets": "no",
+   "published": "",
+   "url": "https://www.openrent.co.uk/3021448",
+   "summary": "Charming One bed garden flat.In highly sought-after quiet 7 dails area close to the station beach park and Churchill Square",
+   "images": [
+    "https://imagescdn.openrent.co.uk/listings/3021448/o_1k152dirs5k4c12i2t721u131.JPG_homepage.JPG"
+   ],
+   "zone": null,
+   "area": "Seven Dials",
+   "centre_km": 0.85,
+   "station": "Brighton",
+   "station_km": 0.56,
+   "station_lines": [],
+   "gym": null,
+   "gym_km": null,
+   "bills_included": false,
+   "short_let": false,
+   "gym_in_building": false,
+   "in_window": false,
+   "also_on": {
+    "OpenRent": "https://www.openrent.co.uk/3043687"
+   },
+   "num": 218,
+   "first_seen": "2026-09-20"
   },
   {
    "id": "or3037450",
@@ -7348,6 +7597,46 @@
    "first_seen": "2026-09-20"
   },
   {
+   "id": "or2986461",
+   "source": "OpenRent",
+   "address": "Marine Square, BN2",
+   "price": "\u00a32,300 pcm",
+   "price_num": 2300,
+   "beds": 1,
+   "baths": 2,
+   "receptions": null,
+   "lat": 50.81799,
+   "lng": -0.1213765,
+   "available": null,
+   "date_unknown": true,
+   "outdoor": [],
+   "furnished": "furnished",
+   "pets": "yes",
+   "published": "",
+   "url": "https://www.openrent.co.uk/2986461",
+   "summary": "\ud83c\udf0a Fully Furnished 1Bed Apartment with Sea Views | Short ,Mid-Term and Long Term Lets | All Bills Included Available for f",
+   "images": [
+    "https://imagescdn.openrent.co.uk/listings/2206089/o_1i6cm7mm5ou5p6iuce184g1n5r1.JPG_homepage.JPG"
+   ],
+   "zone": null,
+   "area": "Kemptown",
+   "centre_km": 1.47,
+   "station": "Brighton",
+   "station_km": 1.86,
+   "station_lines": [],
+   "gym": null,
+   "gym_km": null,
+   "bills_included": true,
+   "short_let": false,
+   "gym_in_building": false,
+   "in_window": false,
+   "also_on": {
+    "OpenRent": "https://www.openrent.co.uk/3022569"
+   },
+   "num": 240,
+   "first_seen": "2026-09-20"
+  },
+  {
    "id": "or3025196",
    "source": "OpenRent",
    "address": "Brunswick Road, BN3",
@@ -7382,44 +7671,6 @@
    "gym_in_building": false,
    "in_window": false,
    "num": 241,
-   "first_seen": "2026-09-20",
-   "epc": "C"
-  },
-  {
-   "id": "or3046868",
-   "source": "OpenRent",
-   "address": "Brunswick Terrace, BN3",
-   "price": "\u00a32,100 pcm",
-   "price_num": 2100,
-   "beds": 2,
-   "baths": 2,
-   "receptions": null,
-   "lat": 50.8233,
-   "lng": -0.1586453,
-   "available": null,
-   "date_unknown": true,
-   "outdoor": [],
-   "furnished": "unfurnished",
-   "pets": "no",
-   "published": "",
-   "url": "https://www.openrent.co.uk/3046868",
-   "summary": "TWO DOUBLE BEDROOM THIRD-FLOOR APARTMENT WITH SEA VIEWS IN A GRADE I LISTED BUILDING \u2013 HOVE SEAFRONT This beautiful third-f",
-   "images": [
-    "https://imagescdn.openrent.co.uk/listings/3046868/o_1k2vp4aanoqe1n82jfbaljtt60.JPG_homepage.JPG"
-   ],
-   "zone": null,
-   "area": "Brunswick",
-   "centre_km": 1.25,
-   "station": "Brighton",
-   "station_km": 1.38,
-   "station_lines": [],
-   "gym": null,
-   "gym_km": null,
-   "bills_included": false,
-   "short_let": false,
-   "gym_in_building": false,
-   "in_window": false,
-   "num": 242,
    "first_seen": "2026-09-20",
    "epc": "C"
   },
@@ -7572,6 +7823,49 @@
    "gym_in_building": false,
    "in_window": false,
    "num": 248,
+   "first_seen": "2026-09-20",
+   "epc": "C"
+  },
+  {
+   "id": "or3030694",
+   "source": "OpenRent",
+   "address": "Lansdowne Place, BN3",
+   "price": "\u00a31,950 pcm",
+   "price_num": 1950,
+   "beds": 2,
+   "baths": 1,
+   "receptions": null,
+   "lat": 50.82693,
+   "lng": -0.1596904,
+   "available": null,
+   "date_unknown": true,
+   "outdoor": [
+    "garden"
+   ],
+   "furnished": null,
+   "pets": "no",
+   "published": "",
+   "url": "https://www.openrent.co.uk/3030694",
+   "summary": "Newly Renovated 2-Bed Apartment with Private Patio \u2014 Hove, Close to Beach A beautifully renovated, two double bedroom apart",
+   "images": [
+    "https://imagescdn.openrent.co.uk/listings/3030694/o_1k1rfpbfe2urq3j1vvm16kukp40.JPG_homepage.JPG"
+   ],
+   "zone": null,
+   "area": "Brunswick",
+   "centre_km": 1.4,
+   "station": "Hove",
+   "station_km": 1.24,
+   "station_lines": [],
+   "gym": null,
+   "gym_km": null,
+   "bills_included": false,
+   "short_let": false,
+   "gym_in_building": false,
+   "in_window": false,
+   "also_on": {
+    "OpenRent": "https://www.openrent.co.uk/3048258"
+   },
+   "num": 250,
    "first_seen": "2026-09-20",
    "epc": "C"
   },
@@ -8233,6 +8527,46 @@
    "epc": "D"
   },
   {
+   "id": "or3044551",
+   "source": "OpenRent",
+   "address": "Hove Street, BN3",
+   "price": "\u00a31,300 pcm",
+   "price_num": 1300,
+   "beds": 1,
+   "baths": 1,
+   "receptions": null,
+   "lat": 50.82831,
+   "lng": -0.1785972,
+   "available": null,
+   "date_unknown": true,
+   "outdoor": [
+    "balcony/terrace"
+   ],
+   "furnished": "unfurnished",
+   "pets": "no",
+   "published": "",
+   "url": "https://www.openrent.co.uk/3044551",
+   "summary": "A spacious second floor one bedroom purpose-built flat, with lift and South facing balcony, located only 5 minutes walk fro",
+   "images": [
+    "https://imagescdn.openrent.co.uk/listings/811308/o_1easqojcl4vp1sio4t5hrl1p08l.JPG_homepage.JPG"
+   ],
+   "zone": null,
+   "area": "Hove",
+   "centre_km": 2.72,
+   "station": "Hove",
+   "station_km": 0.96,
+   "station_lines": [],
+   "gym": null,
+   "gym_km": null,
+   "bills_included": false,
+   "short_let": false,
+   "gym_in_building": false,
+   "in_window": false,
+   "num": 273,
+   "first_seen": "2026-09-20",
+   "epc": "C"
+  },
+  {
    "bills_included": false,
    "short_let": false,
    "gym_in_building": false,
@@ -8393,7 +8727,8 @@
    },
    "num": 279,
    "first_seen": "2026-09-21",
-   "epc": "C"
+   "epc": "C",
+   "unavailable": true
   },
   {
    "bills_included": false,
@@ -8727,6 +9062,47 @@
    "epc": "C"
   },
   {
+   "id": "or2869914",
+   "source": "OpenRent",
+   "address": "Windsor Court, BN1",
+   "price": "\u00a32,000 pcm",
+   "price_num": 2000,
+   "beds": 1,
+   "baths": 1,
+   "receptions": null,
+   "lat": 50.824223,
+   "lng": -0.1426333,
+   "available": null,
+   "date_unknown": true,
+   "outdoor": [],
+   "furnished": "furnished",
+   "pets": "yes",
+   "published": "",
+   "url": "https://www.openrent.co.uk/2869914",
+   "summary": "Welcome to your home away from home in one of Brighton\u2019s most desirable and historic neighbourhoods. This stylishly refurbi",
+   "images": [
+    "https://imagescdn.openrent.co.uk/listings/2532395/o_1iumqvdko1ii915r61j4o14k94490.JPG_homepage.JPG"
+   ],
+   "zone": null,
+   "area": "North Laine",
+   "centre_km": 0.2,
+   "station": "Brighton",
+   "station_km": 0.54,
+   "station_lines": [],
+   "gym": null,
+   "gym_km": null,
+   "bills_included": false,
+   "short_let": false,
+   "gym_in_building": false,
+   "in_window": false,
+   "also_on": {
+    "OpenRent": "https://www.openrent.co.uk/2975476"
+   },
+   "num": 297,
+   "first_seen": "2026-09-21",
+   "epc": "D"
+  },
+  {
    "id": "or2993889",
    "source": "OpenRent",
    "address": "Brighton And Hove, BN1",
@@ -8761,6 +9137,43 @@
    "gym_in_building": false,
    "in_window": false,
    "num": 298,
+   "first_seen": "2026-09-21"
+  },
+  {
+   "id": "or3037887",
+   "source": "OpenRent",
+   "address": "Charlotte St, BN2",
+   "price": "\u00a3850 pcm",
+   "price_num": 850,
+   "beds": 0,
+   "baths": 1,
+   "receptions": null,
+   "lat": 50.819313,
+   "lng": -0.1280813,
+   "available": null,
+   "date_unknown": true,
+   "outdoor": [],
+   "furnished": "furnished",
+   "pets": "yes",
+   "published": "",
+   "url": "https://www.openrent.co.uk/3037887",
+   "summary": "PRIVATE DELUXE ROOM IN HOTEL \u2022 ENSUITE BATHROOM \u2022 MOVE IN TODAY- CENTRAL Brighton- Accommodation Looking for affordable, fl",
+   "images": [
+    "https://imagescdn.openrent.co.uk/listings/3037887/o_1k2abimho1v3q119g8p2gvv13kj3.JPG_homepage.JPG"
+   ],
+   "zone": null,
+   "area": "Kemptown",
+   "centre_km": 0.98,
+   "station": "Brighton",
+   "station_km": 1.42,
+   "station_lines": [],
+   "gym": null,
+   "gym_km": null,
+   "bills_included": false,
+   "short_let": false,
+   "gym_in_building": false,
+   "in_window": false,
+   "num": 299,
    "first_seen": "2026-09-21"
   },
   {
@@ -9040,7 +9453,8 @@
    },
    "num": 309,
    "first_seen": "2026-09-22",
-   "epc": "C"
+   "epc": "C",
+   "unavailable": true
   },
   {
    "bills_included": false,
@@ -9084,6 +9498,47 @@
    },
    "num": 310,
    "first_seen": "2026-09-22"
+  },
+  {
+   "bills_included": false,
+   "short_let": false,
+   "gym_in_building": false,
+   "sqft": 1065,
+   "station_lines": [],
+   "gym": null,
+   "gym_km": null,
+   "id": "74295381",
+   "address": "Dartmouth Crescent, Brighton BN2",
+   "price": "\u00a32,000 pcm",
+   "price_num": 2000,
+   "beds": 5,
+   "baths": 2,
+   "receptions": 1,
+   "zone": null,
+   "area": "Moulsecoomb",
+   "centre_km": 3.21,
+   "lat": 50.84007,
+   "lng": -0.10426,
+   "station": "Moulsecoomb",
+   "station_km": 1.23,
+   "available": null,
+   "in_window": false,
+   "outdoor": [
+    "garden"
+   ],
+   "furnished": "furnished",
+   "pets": null,
+   "published": "21st Sep 2026",
+   "url": "https://www.zoopla.co.uk/to-rent/details/74295381/",
+   "summary": "Students and professional sharers **great value house either four bed/two reception or 5 bed/one reception** double bedrooms** two bathrooms**",
+   "images": [
+    "https://lid.zoocdn.com/645/430/2562f9331075f9243adc69ef5ec42131dd5cd1f8.jpg",
+    "https://lid.zoocdn.com/645/430/b592acb097b40dd2db3e5a03d22fa1a11aa484d6.jpg",
+    "https://lid.zoocdn.com/645/430/5deb9bd206525bbfaea7669b66151fd607154b53.jpg"
+   ],
+   "num": 311,
+   "first_seen": "2026-09-22",
+   "epc": "D"
   },
   {
    "bills_included": false,
@@ -9330,8 +9785,7 @@
    "gym_in_building": false,
    "in_window": true,
    "num": 317,
-   "first_seen": "2026-09-22",
-   "unavailable": true
+   "first_seen": "2026-09-22"
   },
   {
    "id": "rm93138705",
@@ -9374,7 +9828,8 @@
     "Rightmove": "https://www.rightmove.co.uk/properties/93101892#/?channel=RES_LET"
    },
    "num": 318,
-   "first_seen": "2026-09-22"
+   "first_seen": "2026-09-22",
+   "unavailable": true
   },
   {
    "id": "rm92997876",
@@ -9498,47 +9953,6 @@
    "epc": "C"
   },
   {
-   "id": "or3043687",
-   "source": "OpenRent",
-   "address": "Denmark Terrace, BN1",
-   "price": "\u00a31,470 pcm",
-   "price_num": 1470,
-   "beds": 1,
-   "baths": 1,
-   "receptions": null,
-   "lat": 50.82869,
-   "lng": -0.1500541,
-   "available": null,
-   "date_unknown": true,
-   "outdoor": [],
-   "furnished": "furnished",
-   "pets": "yes",
-   "published": "",
-   "url": "https://www.openrent.co.uk/3043687",
-   "summary": "\ud83c\udfe1 Stylish Fully Furnished 1-Bedroom Apartment \u2013 Central Brighton \ud83c\udf0a\u2728A beautifully presented and fully furnished one-bedroo",
-   "images": [
-    "https://imagescdn.openrent.co.uk/listings/3043687/o_1k2nequve56h18flj5s17en1gve0.JPG_homepage.JPG"
-   ],
-   "zone": null,
-   "area": "Seven Dials",
-   "centre_km": 0.92,
-   "station": "Brighton",
-   "station_km": 0.62,
-   "station_lines": [],
-   "gym": null,
-   "gym_km": null,
-   "bills_included": false,
-   "short_let": false,
-   "gym_in_building": false,
-   "in_window": false,
-   "also_on": {
-    "OpenRent": "https://www.openrent.co.uk/3021448"
-   },
-   "num": 324,
-   "first_seen": "2026-09-22",
-   "epc": "D"
-  },
-  {
    "id": "or855698",
    "source": "OpenRent",
    "address": "Burlington St, BN2",
@@ -9580,8 +9994,8 @@
    "id": "or2967266",
    "source": "OpenRent",
    "address": "Denmark Terrace, BN1",
-   "price": "\u00a31,625 pcm",
-   "price_num": 1625,
+   "price": "\u00a31,600 pcm",
+   "price_num": 1600,
    "beds": 2,
    "baths": 1,
    "receptions": null,
@@ -9655,50 +10069,6 @@
     "Rightmove": "https://www.rightmove.co.uk/properties/93426747#/?channel=RES_LET"
    },
    "num": 328,
-   "first_seen": "2026-09-23",
-   "epc": "D"
-  },
-  {
-   "bills_included": false,
-   "short_let": false,
-   "gym_in_building": false,
-   "sqft": 1259,
-   "station_lines": [],
-   "gym": null,
-   "gym_km": null,
-   "id": "74306961",
-   "address": "Barcombe Road, Brighton BN1",
-   "price": "\u00a32,500 pcm",
-   "price_num": 2500,
-   "beds": 7,
-   "baths": 2,
-   "receptions": 1,
-   "zone": null,
-   "area": "Moulsecoomb",
-   "centre_km": 4.23,
-   "lat": 50.85479,
-   "lng": -0.10818,
-   "station": "Moulsecoomb",
-   "station_km": 0.6,
-   "available": null,
-   "in_window": false,
-   "outdoor": [
-    "garden"
-   ],
-   "furnished": null,
-   "pets": null,
-   "published": "22nd Sep 2026",
-   "url": "https://www.zoopla.co.uk/to-rent/details/74306961/",
-   "summary": "Large 7 Bedroom Family home situated in Moulsecoomb. This fantastic 7-bed property benefits from great social spaces, a huge enclosed rear garden ...",
-   "images": [
-    "https://lid.zoocdn.com/645/430/33753ebb00efb050e98c4cd56272b523ce60bb21.jpg",
-    "https://lid.zoocdn.com/645/430/b824b8b3ce65b4dc4eb8c06f2100f1dc12acf4a7.jpg",
-    "https://lid.zoocdn.com/645/430/a15bf7de7ebf6ae13d0b32e5471dc5cb18efcd5e.jpg"
-   ],
-   "also_on": {
-    "Rightmove": "https://www.rightmove.co.uk/properties/93444732#/?channel=RES_LET"
-   },
-   "num": 329,
    "first_seen": "2026-09-23",
    "epc": "D"
   },
@@ -9782,7 +10152,8 @@
    ],
    "num": 331,
    "first_seen": "2026-09-23",
-   "epc": "B"
+   "epc": "B",
+   "unavailable": true
   },
   {
    "bills_included": false,
@@ -10317,88 +10688,8 @@
    },
    "num": 348,
    "first_seen": "2026-09-24",
-   "epc": "E"
-  },
-  {
-   "id": "or3022569",
-   "source": "OpenRent",
-   "address": "Marine Square, BN2",
-   "price": "\u00a32,250 pcm",
-   "price_num": 2250,
-   "beds": 1,
-   "baths": 1,
-   "receptions": null,
-   "lat": 50.81796,
-   "lng": -0.1214889,
-   "available": null,
-   "date_unknown": true,
-   "outdoor": [],
-   "furnished": "furnished",
-   "pets": "yes",
-   "published": "",
-   "url": "https://www.openrent.co.uk/3022569",
-   "summary": "\u2728 Short-Term & Medium-Term Stays AvailableStylish 1-Bedroom Seaview Apartment | Fully FurnishedA beautifully presente",
-   "images": [
-    "https://imagescdn.openrent.co.uk/listings/2579796/o_1j1vn1cv9u5st731qmv1i3h3fk5.JPG_homepage.JPG"
-   ],
-   "zone": null,
-   "area": "Kemptown",
-   "centre_km": 1.47,
-   "station": "Brighton",
-   "station_km": 1.85,
-   "station_lines": [],
-   "gym": null,
-   "gym_km": null,
-   "bills_included": false,
-   "short_let": true,
-   "gym_in_building": false,
-   "in_window": false,
-   "also_on": {
-    "OpenRent": "https://www.openrent.co.uk/2986461"
-   },
-   "num": 349,
-   "first_seen": "2026-09-24"
-  },
-  {
-   "id": "or3048258",
-   "source": "OpenRent",
-   "address": "Lansdowne Place, BN3",
-   "price": "\u00a31,950 pcm",
-   "price_num": 1950,
-   "beds": 2,
-   "baths": 2,
-   "receptions": null,
-   "lat": 50.826653,
-   "lng": -0.1598269,
-   "available": null,
-   "date_unknown": true,
-   "outdoor": [],
-   "furnished": "unfurnished",
-   "pets": "yes",
-   "published": "",
-   "url": "https://www.openrent.co.uk/3048258",
-   "summary": "Two double bedrooms, one with ensuite, a shower room and separate cloakroom.  This characterful lower-ground floor flat is",
-   "images": [
-    "https://imagescdn.openrent.co.uk/listings/3048258/o_1k32gsmhfeo017s61uml1phv107q1.JPG_homepage.JPG"
-   ],
-   "zone": null,
-   "area": "Brunswick",
-   "centre_km": 1.4,
-   "station": "Hove",
-   "station_km": 1.26,
-   "station_lines": [],
-   "gym": null,
-   "gym_km": null,
-   "bills_included": false,
-   "short_let": false,
-   "gym_in_building": false,
-   "in_window": false,
-   "also_on": {
-    "OpenRent": "https://www.openrent.co.uk/3030694"
-   },
-   "num": 350,
-   "first_seen": "2026-09-24",
-   "epc": "D"
+   "epc": "E",
+   "unavailable": true
   },
   {
    "id": "or3050769",
@@ -10436,6 +10727,51 @@
    "in_window": false,
    "num": 351,
    "first_seen": "2026-09-24",
+   "epc": "D"
+  },
+  {
+   "bills_included": false,
+   "short_let": false,
+   "gym_in_building": false,
+   "sqft": null,
+   "station_lines": [],
+   "gym": null,
+   "gym_km": null,
+   "id": "74333092",
+   "address": "Seaview Road, Brighton BN2",
+   "price": "\u00a32,150 pcm",
+   "price_num": 2150,
+   "beds": 3,
+   "baths": 1,
+   "receptions": null,
+   "zone": null,
+   "area": "Whitehawk",
+   "centre_km": 4.25,
+   "lat": 50.83617,
+   "lng": -0.08424,
+   "station": "Moulsecoomb",
+   "station_km": 2.49,
+   "available": null,
+   "in_window": false,
+   "outdoor": [
+    "balcony/terrace",
+    "garden"
+   ],
+   "furnished": "furnished",
+   "pets": null,
+   "published": "24th Sep 2026",
+   "url": "https://www.zoopla.co.uk/to-rent/details/74333092/",
+   "summary": "The house is located between both Sussex and Brighton universities which cab be accesible by bus Nnumber 23, It also has easy access to both Royal ...",
+   "images": [
+    "https://lid.zoocdn.com/645/430/dda7be25181049636eced53986781dbfca28b2a8.jpg",
+    "https://lid.zoocdn.com/645/430/5048f883794a5d4b15acf78fd99099561cfe2259.jpg",
+    "https://lid.zoocdn.com/645/430/89263a1565ec48ce0ce1600fd380036193e1dbdc.jpg"
+   ],
+   "also_on": {
+    "Rightmove": "https://www.rightmove.co.uk/properties/93553038#/?channel=RES_LET"
+   },
+   "num": 352,
+   "first_seen": "2026-09-25",
    "epc": "D"
   },
   {
@@ -10567,47 +10903,6 @@
    "epc": "C"
   },
   {
-   "id": "rm92824218",
-   "source": "Rightmove",
-   "address": "Western Road, Brighton, BN1",
-   "price": "\u00a32,350 pcm",
-   "price_num": 2350,
-   "beds": 3,
-   "baths": 3,
-   "receptions": null,
-   "sqft": null,
-   "lat": 50.82515,
-   "lng": -0.1535,
-   "available": "2026-09-21",
-   "date_unknown": false,
-   "outdoor": [],
-   "furnished": null,
-   "pets": null,
-   "published": "2026-09-07",
-   "url": "https://www.rightmove.co.uk/properties/92824218#/?channel=RES_LET",
-   "summary": "A stunning three bedroom and three-bathroom property. Spread over two floors, this property has been recently renovated to an incredibly high level, with a truly wonderful finish. ",
-   "images": [
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/80bf65767/92824218/80bf657670e8332cd00406d966e7741f_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b5096df8c/92824218/b5096df8c195519e203df347a97c4dbb_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a83f27558/92824218/a83f275586079c06a13ccae2f8baf8fa_max_476x317.jpeg"
-   ],
-   "zone": null,
-   "area": "Brunswick",
-   "centre_km": 0.92,
-   "station": "Brighton",
-   "station_km": 0.97,
-   "station_lines": [],
-   "gym": null,
-   "gym_km": null,
-   "bills_included": false,
-   "short_let": false,
-   "gym_in_building": false,
-   "in_window": false,
-   "num": 357,
-   "first_seen": "2026-09-25",
-   "epc": "E"
-  },
-  {
    "id": "rm92814753",
    "source": "Rightmove",
    "address": "Prince Regents Close, Brighton",
@@ -10692,46 +10987,6 @@
    "num": 359,
    "first_seen": "2026-09-25",
    "unavailable": true
-  },
-  {
-   "id": "rm92237712",
-   "source": "Rightmove",
-   "address": "Hawkhurst Road - RL0019",
-   "price": "\u00a31,795 pcm",
-   "price_num": 1795,
-   "beds": 4,
-   "baths": 1,
-   "receptions": null,
-   "sqft": 969,
-   "lat": 50.863,
-   "lng": -0.113646,
-   "available": "2026-08-28",
-   "date_unknown": false,
-   "outdoor": [],
-   "furnished": null,
-   "pets": null,
-   "published": "2026-08-21",
-   "url": "https://www.rightmove.co.uk/properties/92237712#/?channel=RES_LET",
-   "summary": "4-BedroomHouse - Hawkhurst Road, Brighton - Available Now",
-   "images": [
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d5d54e1ca/92237712/d5d54e1cae04d7058f82ebb98077c0c6_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3b6b0e61e/92237712/3b6b0e61ed51185a93dd067070b9c1b7_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/79b4b8a1e/92237712/79b4b8a1e175e1c00e3ebbecac05c6e3_max_476x317.jpeg"
-   ],
-   "zone": null,
-   "area": "Moulsecoomb",
-   "centre_km": 4.86,
-   "station": "Moulsecoomb",
-   "station_km": 1.45,
-   "station_lines": [],
-   "gym": null,
-   "gym_km": null,
-   "bills_included": false,
-   "short_let": false,
-   "gym_in_building": false,
-   "in_window": false,
-   "num": 360,
-   "first_seen": "2026-09-25"
   },
   {
    "id": "rm92475039",
@@ -10936,9 +11191,6 @@
     "https://lid.zoocdn.com/645/430/b6ae6eff5922093861b916df2e46c2d50460015c.jpg",
     "https://lid.zoocdn.com/645/430/128fdc910b94c6904396bf64b5004431d2d590b5.jpg"
    ],
-   "also_on": {
-    "Rightmove": "https://www.rightmove.co.uk/properties/93584916#/?channel=RES_LET"
-   },
    "num": 366,
    "first_seen": "2026-09-26",
    "epc": "C"
@@ -10980,9 +11232,6 @@
     "https://lid.zoocdn.com/645/430/b64c426ee05e7e2bb08949ba8515d25ed372a873.jpg",
     "https://lid.zoocdn.com/645/430/33da40ed09c3dda479c27ee28d04c18b9b4514e2.jpg"
    ],
-   "also_on": {
-    "Rightmove": "https://www.rightmove.co.uk/properties/92304900#/?channel=RES_LET"
-   },
    "num": 367,
    "first_seen": "2026-09-26",
    "epc": "C"
@@ -11110,47 +11359,6 @@
    "first_seen": "2026-09-26"
   },
   {
-   "id": "or3050173",
-   "source": "OpenRent",
-   "address": "Brighton, BN1",
-   "price": "\u00a31,500 pcm",
-   "price_num": 1500,
-   "beds": 1,
-   "baths": 1,
-   "receptions": null,
-   "lat": 50.82206,
-   "lng": -0.1405906,
-   "available": null,
-   "date_unknown": true,
-   "outdoor": [],
-   "furnished": null,
-   "pets": "yes",
-   "published": "",
-   "url": "https://www.openrent.co.uk/3050173",
-   "summary": "1-Bedroom, 1-Bathroom Maisonette \u2013 Brighton Square, BN1Live in the very heart of Brighton\u2019s iconic Lanes in this beautifull",
-   "images": [
-    "https://imagescdn.openrent.co.uk/listings/2745989/o_1je9rbv6f1611te51vm11j6opge0.JPG_homepage.JPG"
-   ],
-   "zone": null,
-   "area": "North Laine",
-   "centre_km": 0.09,
-   "station": "Brighton",
-   "station_km": 0.77,
-   "station_lines": [],
-   "gym": null,
-   "gym_km": null,
-   "bills_included": false,
-   "short_let": false,
-   "gym_in_building": false,
-   "in_window": false,
-   "also_on": {
-    "OpenRent": "https://www.openrent.co.uk/3033889"
-   },
-   "num": 371,
-   "first_seen": "2026-09-26",
-   "epc": "B"
-  },
-  {
    "id": "or2746485",
    "source": "OpenRent",
    "address": "Regent House, BN1",
@@ -11192,8 +11400,8 @@
    "id": "or557836",
    "source": "OpenRent",
    "address": "Gloucester St, BN1",
-   "price": "\u00a31,450 pcm",
-   "price_num": 1450,
+   "price": "\u00a31,395 pcm",
+   "price_num": 1395,
    "beds": 1,
    "baths": 1,
    "receptions": null,
@@ -11202,13 +11410,13 @@
    "available": null,
    "date_unknown": true,
    "outdoor": [],
-   "furnished": "unfurnished",
+   "furnished": "furnished",
    "pets": "no",
    "published": "",
    "url": "https://www.openrent.co.uk/557836",
    "summary": "Located in the Heart of Brighton's North Laine area, just minutes from the Station. This lovely apartment is available for",
    "images": [
-    "https://imagescdn.openrent.co.uk/listings/557836/o_1k3ca4bjsbsoe3u1qgv6ur12vh0.JPG_homepage.JPG"
+    "https://imagescdn.openrent.co.uk/listings/557836/o_1k3ca4dc016631n21fv5160l1qb53.JPG_homepage.JPG"
    ],
    "zone": null,
    "area": "North Laine",
@@ -11263,52 +11471,6 @@
    "num": 375,
    "first_seen": "2026-09-26",
    "epc": "A"
-  },
-  {
-   "id": "rm93354780",
-   "source": "Rightmove",
-   "address": "Hillside, Brighton, BN2",
-   "price": "\u00a32,200 pcm",
-   "price_num": 2200,
-   "beds": 3,
-   "baths": 1,
-   "receptions": null,
-   "sqft": null,
-   "lat": 50.844788,
-   "lng": -0.111193,
-   "available": "2026-09-24",
-   "date_unknown": false,
-   "outdoor": [
-    "balcony/terrace",
-    "garden"
-   ],
-   "furnished": null,
-   "pets": null,
-   "published": "2026-09-20",
-   "url": "https://www.rightmove.co.uk/properties/93354780#/?channel=RES_LET",
-   "summary": "We are proud to offer this delightful 3bedroom, 1 bathroom house in a great location. Available to move in from from 21/09/2026, this property benefits from available parking and g",
-   "images": [
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6f2b740ff/93354780/6f2b740ff06415f048a0b2a365eb30b4_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d5ddafc27/93354780/d5ddafc2763b615b8e84844a8bc7015e_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9828719ff/93354780/9828719ff96b17fc854027a45f180422_max_476x317.jpeg"
-   ],
-   "zone": null,
-   "area": "Moulsecoomb",
-   "centre_km": 3.21,
-   "station": "Moulsecoomb",
-   "station_km": 0.58,
-   "station_lines": [],
-   "gym": null,
-   "gym_km": null,
-   "bills_included": false,
-   "short_let": false,
-   "gym_in_building": false,
-   "in_window": false,
-   "also_on": {
-    "OpenRent": "https://www.openrent.co.uk/3046292"
-   },
-   "num": 376,
-   "first_seen": "2026-09-27"
   },
   {
    "id": "rm92273187",
@@ -11701,8 +11863,8 @@
    "zone": null,
    "area": "Portslade",
    "centre_km": 5.71,
-   "lat": 50.83668,
-   "lng": -0.21914,
+   "lat": 50.83669,
+   "lng": -0.21912,
    "station": "Portslade",
    "station_km": 0.96,
    "available": "2026-10-07",
@@ -11732,8 +11894,8 @@
    "gym_km": null,
    "id": "60125912",
    "address": "Station Road, Portslade, Brighton BN41",
-   "price": "\u00a32,500 pcm",
-   "price_num": 2500,
+   "price": "\u00a32,350 pcm",
+   "price_num": 2350,
    "beds": 4,
    "baths": 1,
    "receptions": 1,
@@ -11799,48 +11961,8 @@
    "in_window": true,
    "num": 388,
    "first_seen": "2026-09-29",
-   "epc": "D"
-  },
-  {
-   "id": "rm93338901",
-   "source": "Rightmove",
-   "address": "The Boardwalk, Brighton, BN2",
-   "price": "\u00a32,400 pcm",
-   "price_num": 2400,
-   "beds": 3,
-   "baths": 2,
-   "receptions": null,
-   "sqft": null,
-   "lat": 50.81839,
-   "lng": -0.11187,
-   "available": "2026-09-21",
-   "date_unknown": false,
-   "outdoor": [],
-   "furnished": null,
-   "pets": "yes",
-   "published": "2026-09-19",
-   "url": "https://www.rightmove.co.uk/properties/93338901#/?channel=RES_LET",
-   "summary": "3 bedroom furnished apartment located in the peaceful settings of Brighton Marina. This fantastic 3 bedroom apartment situated on the 4th floor with lift access, offering glorious ",
-   "images": [
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/41b12a39a/93338901/41b12a39a43c0b8dfd4a89923b70954c_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4bb245ea8/93338901/4bb245ea8cdf94902f8dc0887a16abcf_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5b26b9fc5/93338901/5b26b9fc5a6a73fd3bba8da9b52bc349_max_476x317.jpeg"
-   ],
-   "zone": null,
-   "area": "Kemptown",
-   "centre_km": 2.1,
-   "station": "Brighton",
-   "station_km": 2.38,
-   "station_lines": [],
-   "gym": null,
-   "gym_km": null,
-   "bills_included": false,
-   "short_let": false,
-   "gym_in_building": false,
-   "in_window": false,
-   "num": 389,
-   "first_seen": "2026-09-29",
-   "epc": "B"
+   "epc": "D",
+   "unavailable": true
   },
   {
    "id": "rm93098526",
@@ -11881,48 +12003,8 @@
    "in_window": true,
    "num": 390,
    "first_seen": "2026-09-29",
-   "epc": "D"
-  },
-  {
-   "id": "rm90430245",
-   "source": "Rightmove",
-   "address": "Fletching Close, BRIGHTON",
-   "price": "\u00a31,800 pcm",
-   "price_num": 1800,
-   "beds": 3,
-   "baths": 1,
-   "receptions": null,
-   "sqft": null,
-   "lat": 50.82546,
-   "lng": -0.10521,
-   "available": "2026-07-02",
-   "date_unknown": false,
-   "outdoor": [],
-   "furnished": null,
-   "pets": null,
-   "published": "2026-07-02",
-   "url": "https://www.rightmove.co.uk/properties/90430245#/?channel=RES_LET",
-   "summary": "**Zero Deposit Available**\n*** IDEAL FAMILY HOME // AVAILABLE NOW // FREE PARKING *** Situated in the vibrant Whitehawk area of Brighton, Fletching Close offers a spacious three do",
-   "images": [
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0e9d32dfe/90430245/0e9d32dfe776c2742e5ce9eb034f97a9_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cf17be789/90430245/cf17be789d9feca8d4f63e927bd21b14_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f5c903cdf/90430245/f5c903cdf9637b21bf4a6aa7fff413cf_max_476x317.jpeg"
-   ],
-   "zone": null,
-   "area": "Whitehawk",
-   "centre_km": 2.52,
-   "station": "London Road",
-   "station_km": 2.49,
-   "station_lines": [],
-   "gym": null,
-   "gym_km": null,
-   "bills_included": false,
-   "short_let": false,
-   "gym_in_building": false,
-   "in_window": false,
-   "num": 391,
-   "first_seen": "2026-09-29",
-   "epc": "C"
+   "epc": "D",
+   "unavailable": true
   },
   {
    "id": "or3051456",
@@ -11966,8 +12048,8 @@
    "id": "or3028993",
    "source": "OpenRent",
    "address": "Powis Road, BN1",
-   "price": "\u00a31,750 pcm",
-   "price_num": 1750,
+   "price": "\u00a31,600 pcm",
+   "price_num": 1600,
    "beds": 1,
    "baths": 1,
    "receptions": null,
@@ -12078,44 +12160,6 @@
    "first_seen": "2026-09-29"
   },
   {
-   "id": "or1674318",
-   "source": "OpenRent",
-   "address": "Jasmine Court, BN3",
-   "price": "\u00a31,300 pcm",
-   "price_num": 1300,
-   "beds": 1,
-   "baths": 1,
-   "receptions": null,
-   "lat": 50.83279,
-   "lng": -0.1597505,
-   "available": null,
-   "date_unknown": true,
-   "outdoor": [],
-   "furnished": "unfurnished",
-   "pets": "no",
-   "published": "",
-   "url": "https://www.openrent.co.uk/1674318",
-   "summary": "One bed flat for rent with parking downstairs. Separate kitchen and living room.  Wooden flooring throughout except for the",
-   "images": [
-    "https://imagescdn.openrent.co.uk/listings/1674318/o_1k347msms90k1dirkgv1av59701.JPG_homepage.JPG"
-   ],
-   "zone": null,
-   "area": "Brunswick",
-   "centre_km": 1.73,
-   "station": "Hove",
-   "station_km": 0.85,
-   "station_lines": [],
-   "gym": null,
-   "gym_km": null,
-   "bills_included": false,
-   "short_let": false,
-   "gym_in_building": false,
-   "in_window": false,
-   "num": 396,
-   "first_seen": "2026-09-29",
-   "epc": "C"
-  },
-  {
    "id": "or2354797",
    "source": "OpenRent",
    "address": "Fourth Avenue, BN3",
@@ -12191,6 +12235,506 @@
    "in_window": false,
    "num": 398,
    "first_seen": "2026-09-29",
+   "epc": "D"
+  },
+  {
+   "bills_included": false,
+   "short_let": false,
+   "gym_in_building": false,
+   "sqft": null,
+   "station_lines": [],
+   "gym": null,
+   "gym_km": null,
+   "id": "74363771",
+   "address": "Ditchling Rise, Brighton BN1",
+   "price": "\u00a31,795 pcm",
+   "price_num": 1795,
+   "beds": 3,
+   "baths": 1,
+   "receptions": null,
+   "zone": null,
+   "area": "Preston Park",
+   "centre_km": 1.45,
+   "lat": 50.83577,
+   "lng": -0.13877,
+   "station": "London Road",
+   "station_km": 0.21,
+   "available": "2026-11-01",
+   "in_window": true,
+   "outdoor": [],
+   "furnished": "unfurnished",
+   "pets": null,
+   "published": "29th Sep 2026",
+   "url": "https://www.zoopla.co.uk/to-rent/details/74363771/",
+   "summary": "We are delighted to offer this lovely three-bedroom maisonette, ideally located in a vibrant and convenient part of Brighton, within easy reach of ...",
+   "images": [
+    "https://lid.zoocdn.com/645/430/56da2178fe220615a7bded1d9f489f3be4294591.jpg",
+    "https://lid.zoocdn.com/645/430/8843ae234d31aa4c9e38b92e8d259768f92d8515.jpg",
+    "https://lid.zoocdn.com/645/430/bb39964a6282d249d5a331b5875ab1efd568e1c9.jpg"
+   ],
+   "also_on": {
+    "OpenRent": "https://www.openrent.co.uk/3055680"
+   },
+   "num": 399,
+   "first_seen": "2026-09-30",
+   "epc": "D"
+  },
+  {
+   "bills_included": false,
+   "short_let": false,
+   "gym_in_building": false,
+   "sqft": 861,
+   "station_lines": [],
+   "gym": null,
+   "gym_km": null,
+   "id": "74363081",
+   "address": "North Street, Brighton, Brighton BN1",
+   "price": "\u00a32,250 pcm",
+   "price_num": 2250,
+   "beds": 4,
+   "baths": 2,
+   "receptions": 1,
+   "zone": null,
+   "area": "North Laine",
+   "centre_km": 0.07,
+   "lat": 50.82245,
+   "lng": -0.14009,
+   "station": "Brighton",
+   "station_km": 0.73,
+   "available": "2026-10-06",
+   "in_window": true,
+   "outdoor": [],
+   "furnished": "furnished",
+   "pets": null,
+   "published": "29th Sep 2026",
+   "url": "https://www.zoopla.co.uk/to-rent/details/74363081/",
+   "summary": "Newly refurbished and spacious four-bedroom apartment.",
+   "images": [
+    "https://lid.zoocdn.com/645/430/0c454097ba5672f2902222a869a1e809c3de98e7.png",
+    "https://lid.zoocdn.com/645/430/a69b17085ff20f16a7e606a94d6fb8cf15cb35e3.png",
+    "https://lid.zoocdn.com/645/430/66ad98f1ff8d9d79b9593cf7d446049e4908c7c7.png"
+   ],
+   "also_on": {
+    "Rightmove": "https://www.rightmove.co.uk/properties/93584916#/?channel=RES_LET"
+   },
+   "num": 400,
+   "first_seen": "2026-09-30",
+   "epc": "C"
+  },
+  {
+   "bills_included": false,
+   "short_let": false,
+   "gym_in_building": false,
+   "sqft": 957,
+   "station_lines": [],
+   "gym": null,
+   "gym_km": null,
+   "id": "74365317",
+   "address": "Downland Road, Woodingdean BN2",
+   "price": "\u00a31,850 pcm",
+   "price_num": 1850,
+   "beds": 3,
+   "baths": 1,
+   "receptions": 1,
+   "zone": null,
+   "area": "Whitehawk",
+   "centre_km": 3.93,
+   "lat": 50.83551,
+   "lng": -0.0887,
+   "station": "Moulsecoomb",
+   "station_km": 2.3,
+   "available": "2026-10-09",
+   "in_window": true,
+   "outdoor": [
+    "garden"
+   ],
+   "furnished": "unfurnished",
+   "pets": "yes",
+   "published": "29th Sep 2026",
+   "url": "https://www.zoopla.co.uk/to-rent/details/74365317/",
+   "summary": "Discover this charming, unfurnished three-double-bedroom detached bungalow to let in Woodingdean, Brighton. Boasting fantastic sea views, a large ...",
+   "images": [
+    "https://lid.zoocdn.com/645/430/dbe5b5280c8daf011b4353f7ef5909b0cfa619ef.jpg",
+    "https://lid.zoocdn.com/645/430/d8028a645744aa8f98f43e656bc679b7db4b1c92.jpg",
+    "https://lid.zoocdn.com/645/430/0f92f274878202110fbf28e491ef8721ac85fd49.jpg"
+   ],
+   "also_on": {
+    "Rightmove": "https://www.rightmove.co.uk/properties/93704349#/?channel=RES_LET"
+   },
+   "num": 401,
+   "first_seen": "2026-09-30",
+   "epc": "D"
+  },
+  {
+   "bills_included": false,
+   "short_let": false,
+   "gym_in_building": false,
+   "sqft": 1237,
+   "station_lines": [],
+   "gym": null,
+   "gym_km": null,
+   "id": "61881962",
+   "address": "Merton Court, The Strand, Brighton Marina, Brighton BN2",
+   "price": "\u00a32,150 pcm",
+   "price_num": 2150,
+   "beds": 3,
+   "baths": 3,
+   "receptions": 1,
+   "zone": null,
+   "area": "Whitehawk",
+   "centre_km": 3.21,
+   "lat": 50.81,
+   "lng": -0.1,
+   "station": "Brighton",
+   "station_km": 3.59,
+   "available": null,
+   "in_window": false,
+   "outdoor": [
+    "balcony/terrace"
+   ],
+   "furnished": "unfurnished",
+   "pets": null,
+   "published": "29th Sep 2026",
+   "url": "https://www.zoopla.co.uk/to-rent/details/61881962/",
+   "summary": "This glorious apartment is situated in the bustling and desirable Brighton Marina development.",
+   "images": [
+    "https://lid.zoocdn.com/645/430/9aaf0143c5b6807dc1f676c952f1b41ccee25f4d.jpg",
+    "https://lid.zoocdn.com/645/430/cd57efe14024e7ed594aea974f33c4aff4aba08f.jpg",
+    "https://lid.zoocdn.com/645/430/cfd29787c9ae801161d7cf8889f5198bdca4f57d.jpg"
+   ],
+   "also_on": {
+    "Rightmove": "https://www.rightmove.co.uk/properties/124705310#/?channel=RES_LET"
+   },
+   "num": 402,
+   "first_seen": "2026-09-30",
+   "epc": "B"
+  },
+  {
+   "bills_included": false,
+   "short_let": false,
+   "gym_in_building": false,
+   "sqft": null,
+   "station_lines": [],
+   "gym": null,
+   "gym_km": null,
+   "id": "59967914",
+   "address": "Neptune Court, The Strand, Brighton, United Kingdom BN2",
+   "price": "\u00a32,150 pcm",
+   "price_num": 2150,
+   "beds": 3,
+   "baths": 2,
+   "receptions": null,
+   "zone": null,
+   "area": "Whitehawk",
+   "centre_km": 3.09,
+   "lat": 50.81184,
+   "lng": -0.10053,
+   "station": "Brighton",
+   "station_km": 3.44,
+   "available": "2026-10-10",
+   "in_window": true,
+   "outdoor": [],
+   "furnished": "furnished",
+   "pets": null,
+   "published": "29th Sep 2026",
+   "url": "https://www.zoopla.co.uk/to-rent/details/59967914/",
+   "summary": "Stunning 3-Bedroom Duplex with Parking in Brighton Marina.",
+   "images": [
+    "https://lid.zoocdn.com/645/430/4caf735a85d9be641a5dab4a1417519394714ef2.jpg",
+    "https://lid.zoocdn.com/645/430/1525b2731d3f3c102327f37ff3497e7cb375f1a3.jpg",
+    "https://lid.zoocdn.com/645/430/04b1f1b630e6fed235bafa854009927ed70d5d26.jpg"
+   ],
+   "also_on": {
+    "Rightmove": "https://www.rightmove.co.uk/properties/92491143#/?channel=RES_LET"
+   },
+   "num": 403,
+   "first_seen": "2026-09-30"
+  },
+  {
+   "bills_included": false,
+   "short_let": false,
+   "gym_in_building": false,
+   "sqft": 793,
+   "station_lines": [],
+   "gym": null,
+   "gym_km": null,
+   "id": "74182983",
+   "address": "Ravenswood Drive, Brighton BN2",
+   "price": "\u00a31,850 pcm",
+   "price_num": 1850,
+   "beds": 3,
+   "baths": 1,
+   "receptions": 1,
+   "zone": null,
+   "area": "Whitehawk",
+   "centre_km": 5.58,
+   "lat": 50.82738,
+   "lng": -0.06173,
+   "station": "Falmer",
+   "station_km": 4.24,
+   "available": "2026-10-05",
+   "in_window": true,
+   "outdoor": [
+    "garden"
+   ],
+   "furnished": "unfurnished",
+   "pets": null,
+   "published": "9th Sep 2026",
+   "url": "https://www.zoopla.co.uk/to-rent/details/74182983/",
+   "summary": " This versatile family home has the best of both worlds, having the option to be arranged with three bedrooms, or alternatively two bedrooms and a ...",
+   "images": [
+    "https://lid.zoocdn.com/645/430/989c3f46282ef4dccef9f97896791fb73f6fb726.jpg",
+    "https://lid.zoocdn.com/645/430/c3eeb6888de212cea4e29d849c7fe7bf835c55c7.jpg",
+    "https://lid.zoocdn.com/645/430/7a7d7c841f11d1fd6d9fd964457be175bf263536.jpg"
+   ],
+   "also_on": {
+    "Rightmove": "https://www.rightmove.co.uk/properties/93716154#/?channel=RES_LET"
+   },
+   "num": 404,
+   "first_seen": "2026-09-30",
+   "epc": "C"
+  },
+  {
+   "bills_included": false,
+   "short_let": false,
+   "gym_in_building": false,
+   "sqft": 807,
+   "station_lines": [],
+   "gym": null,
+   "gym_km": null,
+   "id": "73986361",
+   "address": "St Mary Magdalene Street, Brighton BN2",
+   "price": "\u00a32,150 pcm",
+   "price_num": 2150,
+   "beds": 4,
+   "baths": 1,
+   "receptions": null,
+   "zone": null,
+   "area": "Hanover",
+   "centre_km": 1.59,
+   "lat": 50.83461,
+   "lng": -0.12819,
+   "station": "London Road",
+   "station_km": 0.59,
+   "available": null,
+   "in_window": false,
+   "outdoor": [
+    "garden"
+   ],
+   "furnished": "furnished",
+   "pets": null,
+   "published": "14th Aug 2026",
+   "url": "https://www.zoopla.co.uk/to-rent/details/73986361/",
+   "summary": "A wonderful four-bedroom home spread over three floors, ideally situated just off Lewes Road. This well-kept property offers four furnished double ...",
+   "images": [
+    "https://lid.zoocdn.com/645/430/044074b3e6ea1f45ac7825347eb8474b995a3781.jpg",
+    "https://lid.zoocdn.com/645/430/21509bdde8a013f6e649f68d84a36d98a39d967f.jpg",
+    "https://lid.zoocdn.com/645/430/c13ca1601809fdb5351bcf2b3c12b120c6ee390d.jpg"
+   ],
+   "num": 405,
+   "first_seen": "2026-09-30",
+   "epc": "C"
+  },
+  {
+   "id": "rm92206041",
+   "source": "Rightmove",
+   "address": "Marine Parade, Brighton",
+   "price": "\u00a32,500 pcm",
+   "price_num": 2500,
+   "beds": 4,
+   "baths": 4,
+   "receptions": null,
+   "sqft": 1238,
+   "lat": 50.81942,
+   "lng": -0.130672,
+   "available": null,
+   "date_unknown": true,
+   "outdoor": [],
+   "furnished": null,
+   "pets": null,
+   "published": "2026-08-20",
+   "url": "https://www.rightmove.co.uk/properties/92206041#/?channel=RES_LET",
+   "summary": "Third floor Regency converted apartment with panoramic sea and pier views. The property benefits from a spacious open plan living kitchen with feature bay window.There are four dou",
+   "images": [
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b156337f1/92206041/b156337f125d242c191f0cda3bb7b335_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/afde59bff/92206041/afde59bff0bbe118c0af02f4886de57e_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/405158792/92206041/405158792b8d900e67f4010d060a1342_max_476x317.jpeg"
+   ],
+   "zone": null,
+   "area": "Queen's Park",
+   "centre_km": 0.81,
+   "station": "Brighton",
+   "station_km": 1.3,
+   "station_lines": [],
+   "gym": null,
+   "gym_km": null,
+   "bills_included": false,
+   "short_let": false,
+   "gym_in_building": false,
+   "in_window": false,
+   "also_on": {
+    "Rightmove": "https://www.rightmove.co.uk/properties/92274153#/?channel=RES_LET"
+   },
+   "num": 406,
+   "first_seen": "2026-09-30",
+   "epc": "C"
+  },
+  {
+   "id": "rm93007809",
+   "source": "Rightmove",
+   "address": "Eldred Avenue, Westdene, Brighton",
+   "price": "\u00a32,195 pcm",
+   "price_num": 2195,
+   "beds": 4,
+   "baths": 1,
+   "receptions": null,
+   "sqft": 1152,
+   "lat": 50.858272,
+   "lng": -0.156351,
+   "available": "2026-11-17",
+   "date_unknown": false,
+   "outdoor": [],
+   "furnished": null,
+   "pets": null,
+   "published": "2026-09-10",
+   "url": "https://www.rightmove.co.uk/properties/93007809#/?channel=RES_LET",
+   "summary": "This pleasant family home is situated in one of Westdene's more sought after roads, making early viewing essential. The extended accommodation is offered to let unfurnished and fea",
+   "images": [
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4e3d4ee22/93007809/4e3d4ee228c1077d9a150bdab773af7c_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/027323a6b/93007809/027323a6b1823d0e010f4091c6421653_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fc032af39/93007809/fc032af39132fcbdb1a7409effc6469f_max_476x317.jpeg"
+   ],
+   "zone": null,
+   "area": "Preston Park",
+   "centre_km": 4.09,
+   "station": "Preston Park",
+   "station_km": 1.26,
+   "station_lines": [],
+   "gym": null,
+   "gym_km": null,
+   "bills_included": false,
+   "short_let": false,
+   "gym_in_building": false,
+   "in_window": true,
+   "num": 407,
+   "first_seen": "2026-09-30"
+  },
+  {
+   "id": "rm92091165",
+   "source": "Rightmove",
+   "address": "Flat 8, 8 Pavilion Parade, Brighton",
+   "price": "\u00a32,400 pcm",
+   "price_num": 2400,
+   "beds": 3,
+   "baths": 2,
+   "receptions": null,
+   "sqft": 110,
+   "lat": 50.822467,
+   "lng": -0.13625,
+   "available": "2026-11-30",
+   "date_unknown": false,
+   "outdoor": [],
+   "furnished": null,
+   "pets": null,
+   "published": "2026-08-17",
+   "url": "https://www.rightmove.co.uk/properties/92091165#/?channel=RES_LET",
+   "summary": "AVAILABLE NOVEMBER 2026 Nestled in the vibrant heart of Brighton, Flat 8 at 8 Pavilion Parade offers a splendid opportunity for those seeking a modern apartment in a lively coastal",
+   "images": [
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c241de374/92091165/c241de3748b3bbb642f764afab758946_max_476x317.png",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/820855f47/92091165/820855f477c64f710edb7fe4278a3083_max_476x317.png",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2604750e9/92091165/2604750e9c36bbeff1b2a6754f1e3d3f_max_476x317.png"
+   ],
+   "zone": null,
+   "area": "North Laine",
+   "centre_km": 0.33,
+   "station": "Brighton",
+   "station_km": 0.81,
+   "station_lines": [],
+   "gym": null,
+   "gym_km": null,
+   "bills_included": false,
+   "short_let": false,
+   "gym_in_building": false,
+   "in_window": true,
+   "num": 408,
+   "first_seen": "2026-09-30"
+  },
+  {
+   "id": "or2691953",
+   "source": "OpenRent",
+   "address": "Waterloo St, BN3",
+   "price": "\u00a31,450 pcm",
+   "price_num": 1450,
+   "beds": 1,
+   "baths": 1,
+   "receptions": null,
+   "lat": 50.82392,
+   "lng": -0.1568001,
+   "available": null,
+   "date_unknown": true,
+   "outdoor": [
+    "garden"
+   ],
+   "furnished": "furnished",
+   "pets": "no",
+   "published": "",
+   "url": "https://www.openrent.co.uk/2691953",
+   "summary": "A beautifully presented one-bedroom apartment with a spacious private garden, superbly located just moments from Brighton s",
+   "images": [
+    "https://imagescdn.openrent.co.uk/listings/2691953/o_1k3me9j611phd110lah41u4sbj5b.JPG_homepage.JPG"
+   ],
+   "zone": null,
+   "area": "Brunswick",
+   "centre_km": 1.12,
+   "station": "Brighton",
+   "station_km": 1.23,
+   "station_lines": [],
+   "gym": null,
+   "gym_km": null,
+   "bills_included": false,
+   "short_let": false,
+   "gym_in_building": false,
+   "in_window": false,
+   "num": 409,
+   "first_seen": "2026-09-30",
+   "epc": "C"
+  },
+  {
+   "id": "or2912590",
+   "source": "OpenRent",
+   "address": "Lyndhurst Road, BN3",
+   "price": "\u00a32,100 pcm",
+   "price_num": 2100,
+   "beds": 3,
+   "baths": 1,
+   "receptions": null,
+   "lat": 50.8334,
+   "lng": -0.1571107,
+   "available": null,
+   "date_unknown": true,
+   "outdoor": [],
+   "furnished": "unfurnished",
+   "pets": "yes",
+   "published": "",
+   "url": "https://www.openrent.co.uk/2912590",
+   "summary": "3 bedroomed unfurnished spacious ground floor conversion flat in central hove, council tax  C Sought after Lyndhurst road i",
+   "images": [
+    "https://imagescdn.openrent.co.uk/listings/2912590/o_1jq1qh5tkoh8fhs1m641nm4qtm4.JPG_homepage.JPG"
+   ],
+   "zone": null,
+   "area": "Seven Dials",
+   "centre_km": 1.64,
+   "station": "Hove",
+   "station_km": 1.0,
+   "station_lines": [],
+   "gym": null,
+   "gym_km": null,
+   "bills_included": false,
+   "short_let": false,
+   "gym_in_building": false,
+   "in_window": false,
+   "num": 410,
+   "first_seen": "2026-09-30",
    "epc": "D"
   }
  ]
